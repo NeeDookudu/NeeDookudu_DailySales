@@ -1,0 +1,68 @@
+name: India Movies Data Scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install playwright cryptography requests
+
+      - name: Install Chromium
+        run: playwright install chromium --with-deps
+
+      - name: Create data directory
+        run: mkdir -p data
+
+      - name: Decode Scripts from Base64
+        # This decodes the .txt files you pushed to the repo into executable .py files
+        run: |
+          base64 --decode bms_encoded.txt > bms_scraper.py
+          base64 --decode district_encoded.txt > district_scraper.py
+          base64 --decode merger_encoded.txt > merger.py
+
+      - name: Run Scrapers and Merger
+        env:
+          SUPER_KEY: ${{ secrets.SUPER_KEY }}
+        run: |
+          echo "🚀 Running BMS..."
+          python bms_scraper.py
+          echo "🚀 Running District..."
+          python district_scraper.py
+          echo "🚀 Running Merger..."
+          python merger.py
+
+      - name: Secure Cleanup (Remove decoded code)
+        # Deletes the decoded scripts so they aren't accidentally committed
+        run: |
+          rm bms_scraper.py district_scraper.py merger.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Only stage the data folder to avoid committing any stray files
+          git add data/
+          
+          git diff --cached --quiet || git commit -m "Update data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
