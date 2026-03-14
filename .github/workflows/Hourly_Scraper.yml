@@ -45,7 +45,7 @@ jobs:
           python liverun.py
           
           echo "🚀 Running District Scraper..."
-          python DistrictVenues.py
+          python LiveDistrictrun.py
           
           echo "🚀 Running Merger..."
           python mergerrun.py
