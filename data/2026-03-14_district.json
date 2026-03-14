@@ -8381,24 +8381,24 @@
       "overallStats": {
         "totalShows": 10,
         "totalSeats": 6140,
-        "seatsAvailable": 4822,
-        "seatsSold": 1318,
-        "occupancy": 21.47,
-        "totalRevenue": 170770.0,
+        "seatsAvailable": 4819,
+        "seatsSold": 1321,
+        "occupancy": 21.51,
+        "totalRevenue": 171085.0,
         "totalTheatres": 3,
         "totalCities": 3,
         "totalStates": 2,
-        "avgRevenuePerShow": 17077.0
+        "avgRevenuePerShow": 17108.5
       },
       "states": {
         "andhra-pradesh": {
           "stateStats": {
             "totalShows": 4,
             "totalSeats": 2568,
-            "seatsAvailable": 2037,
-            "seatsSold": 531,
-            "occupancy": 20.68,
-            "totalRevenue": 78545.0,
+            "seatsAvailable": 2034,
+            "seatsSold": 534,
+            "occupancy": 20.79,
+            "totalRevenue": 78860.0,
             "totalTheatres": 1
           },
           "cities": {
@@ -8406,10 +8406,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 2568,
-                "seatsAvailable": 2037,
-                "seatsSold": 531,
-                "occupancy": 20.68,
-                "totalRevenue": 78545.0
+                "seatsAvailable": 2034,
+                "seatsSold": 534,
+                "occupancy": 20.79,
+                "totalRevenue": 78860.0
               },
               "theatres": {
                 "9653": {
@@ -8421,10 +8421,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2568,
-                    "seatsAvailable": 2037,
-                    "seatsSold": 531,
-                    "occupancy": 20.68,
-                    "totalRevenue": 78545.0
+                    "seatsAvailable": 2034,
+                    "seatsSold": 534,
+                    "occupancy": 20.79,
+                    "totalRevenue": 78860.0
                   },
                   "shows": [
                     {
@@ -8434,19 +8434,19 @@
                       "language": "Telugu",
                       "format": "2D",
                       "totalSeats": 642,
-                      "availableSeats": 511,
-                      "soldSeats": 131,
-                      "occupancy": 20.4,
-                      "revenue": 19388.0,
+                      "availableSeats": 508,
+                      "soldSeats": 134,
+                      "occupancy": 20.87,
+                      "revenue": 19703.0,
                       "priceInfo": [
                         {
                           "type": "GOLD",
                           "code": "1498",
                           "price": 105.0,
                           "total": 170,
-                          "available": 170,
-                          "sold": 0,
-                          "revenue": 0.0
+                          "available": 167,
+                          "sold": 3,
+                          "revenue": 315.0
                         },
                         {
                           "type": "PLATINUM",
@@ -8799,48 +8799,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "33993__1773834300__973__1250371",
-                      "showTime": "2026-03-18T11:45",
-                      "screen": "SHANTH MAHAL",
-                      "language": "Telugu",
-                      "format": "2D",
-                      "totalSeats": 612,
-                      "availableSeats": 431,
-                      "soldSeats": 181,
-                      "occupancy": 29.58,
-                      "revenue": 16175.0,
-                      "priceInfo": [
-                        {
-                          "type": "FIRST CLASS",
-                          "code": "1829",
-                          "price": 50.0,
-                          "total": 124,
-                          "available": 0,
-                          "sold": 124,
-                          "revenue": 6200.0
-                        },
-                        {
-                          "type": "SILVER",
-                          "code": "1828",
-                          "price": 150.0,
-                          "total": 76,
-                          "available": 76,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "GOLD",
-                          "code": "1827",
-                          "price": 175.0,
-                          "total": 412,
-                          "available": 355,
-                          "sold": 57,
-                          "revenue": 9975.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "33993__1773850500__973__1250372",
                       "showTime": "2026-03-18T16:15",
                       "screen": "SHANTH MAHAL",
@@ -8878,6 +8836,48 @@
                           "available": 354,
                           "sold": 58,
                           "revenue": 10150.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33993__1773834300__973__1250371",
+                      "showTime": "2026-03-18T11:45",
+                      "screen": "SHANTH MAHAL",
+                      "language": "Telugu",
+                      "format": "2D",
+                      "totalSeats": 612,
+                      "availableSeats": 431,
+                      "soldSeats": 181,
+                      "occupancy": 29.58,
+                      "revenue": 16175.0,
+                      "priceInfo": [
+                        {
+                          "type": "FIRST CLASS",
+                          "code": "1829",
+                          "price": 50.0,
+                          "total": 124,
+                          "available": 0,
+                          "sold": 124,
+                          "revenue": 6200.0
+                        },
+                        {
+                          "type": "SILVER",
+                          "code": "1828",
+                          "price": 150.0,
+                          "total": 76,
+                          "available": 76,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "GOLD",
+                          "code": "1827",
+                          "price": 175.0,
+                          "total": 412,
+                          "available": 355,
+                          "sold": 57,
+                          "revenue": 9975.0
                         }
                       ],
                       "statusColor": "G"
@@ -16239,92 +16239,50 @@
                   },
                   "shows": [
                     {
-                      "showId": "34026__1773558300__2968__15466",
-                      "showTime": "2026-03-15T07:05",
-                      "screen": "OHM ORBIT CINEMAS",
-                      "language": "Punjabi",
-                      "format": "2D",
-                      "totalSeats": 173,
-                      "availableSeats": 173,
-                      "soldSeats": 0,
-                      "occupancy": 0.0,
-                      "revenue": 0.0,
-                      "priceInfo": [
-                        {
-                          "type": "GOLD CLASS",
-                          "code": "2",
-                          "price": 150.0,
-                          "total": 122,
-                          "available": 122,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "SILVER CLASS",
-                          "code": "3",
-                          "price": 150.0,
-                          "total": 40,
-                          "available": 40,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "DIAMOND CLASS",
-                          "code": "1",
-                          "price": 200.0,
-                          "total": 11,
-                          "available": 11,
-                          "sold": 0,
-                          "revenue": 0.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
-                      "showId": "34026__1773578700__2968__15468",
-                      "showTime": "2026-03-15T12:45",
-                      "screen": "OHM ORBIT CINEMAS",
-                      "language": "Punjabi",
-                      "format": "2D",
-                      "totalSeats": 173,
-                      "availableSeats": 173,
-                      "soldSeats": 0,
-                      "occupancy": 0.0,
-                      "revenue": 0.0,
-                      "priceInfo": [
-                        {
-                          "type": "GOLD CLASS",
-                          "code": "2",
-                          "price": 150.0,
-                          "total": 122,
-                          "available": 122,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "SILVER CLASS",
-                          "code": "3",
-                          "price": 150.0,
-                          "total": 40,
-                          "available": 40,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "DIAMOND CLASS",
-                          "code": "1",
-                          "price": 200.0,
-                          "total": 11,
-                          "available": 11,
-                          "sold": 0,
-                          "revenue": 0.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "34026__1773587700__2968__15469",
                       "showTime": "2026-03-15T15:15",
+                      "screen": "OHM ORBIT CINEMAS",
+                      "language": "Punjabi",
+                      "format": "2D",
+                      "totalSeats": 173,
+                      "availableSeats": 173,
+                      "soldSeats": 0,
+                      "occupancy": 0.0,
+                      "revenue": 0.0,
+                      "priceInfo": [
+                        {
+                          "type": "GOLD CLASS",
+                          "code": "2",
+                          "price": 150.0,
+                          "total": 122,
+                          "available": 122,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "SILVER CLASS",
+                          "code": "3",
+                          "price": 150.0,
+                          "total": 40,
+                          "available": 40,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "DIAMOND CLASS",
+                          "code": "1",
+                          "price": 200.0,
+                          "total": 11,
+                          "available": 11,
+                          "sold": 0,
+                          "revenue": 0.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "34026__1773558300__2968__15466",
+                      "showTime": "2026-03-15T07:05",
                       "screen": "OHM ORBIT CINEMAS",
                       "language": "Punjabi",
                       "format": "2D",
@@ -16440,6 +16398,48 @@
                           "type": "DIAMOND CLASS",
                           "code": "1",
                           "price": 150.0,
+                          "total": 11,
+                          "available": 11,
+                          "sold": 0,
+                          "revenue": 0.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "34026__1773578700__2968__15468",
+                      "showTime": "2026-03-15T12:45",
+                      "screen": "OHM ORBIT CINEMAS",
+                      "language": "Punjabi",
+                      "format": "2D",
+                      "totalSeats": 173,
+                      "availableSeats": 173,
+                      "soldSeats": 0,
+                      "occupancy": 0.0,
+                      "revenue": 0.0,
+                      "priceInfo": [
+                        {
+                          "type": "GOLD CLASS",
+                          "code": "2",
+                          "price": 150.0,
+                          "total": 122,
+                          "available": 122,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "SILVER CLASS",
+                          "code": "3",
+                          "price": 150.0,
+                          "total": 40,
+                          "available": 40,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "DIAMOND CLASS",
+                          "code": "1",
+                          "price": 200.0,
                           "total": 11,
                           "available": 11,
                           "sold": 0,
@@ -18511,14 +18511,14 @@
       "overallStats": {
         "totalShows": 271,
         "totalSeats": 130165,
-        "seatsAvailable": 112113,
-        "seatsSold": 18052,
+        "seatsAvailable": 112108,
+        "seatsSold": 18057,
         "occupancy": 13.87,
-        "totalRevenue": 2037592.0,
+        "totalRevenue": 2038630.0,
         "totalTheatres": 72,
         "totalCities": 54,
         "totalStates": 5,
-        "avgRevenuePerShow": 7518.79
+        "avgRevenuePerShow": 7522.62
       },
       "states": {
         "Telangana": {
@@ -18771,10 +18771,10 @@
           "stateStats": {
             "totalShows": 158,
             "totalSeats": 65242,
-            "seatsAvailable": 57377,
-            "seatsSold": 7865,
+            "seatsAvailable": 57374,
+            "seatsSold": 7868,
             "occupancy": 12.06,
-            "totalRevenue": 896047.0,
+            "totalRevenue": 896785.0,
             "totalTheatres": 41
           },
           "cities": {
@@ -18943,10 +18943,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 2160,
-                "seatsAvailable": 1643,
-                "seatsSold": 517,
-                "occupancy": 23.94,
-                "totalRevenue": 69474.0
+                "seatsAvailable": 1642,
+                "seatsSold": 518,
+                "occupancy": 23.98,
+                "totalRevenue": 69622.0
               },
               "theatres": {
                 "1022965": {
@@ -18958,10 +18958,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2160,
-                    "seatsAvailable": 1643,
-                    "seatsSold": 517,
-                    "occupancy": 23.94,
-                    "totalRevenue": 69474.0
+                    "seatsAvailable": 1642,
+                    "seatsSold": 518,
+                    "occupancy": 23.98,
+                    "totalRevenue": 69622.0
                   },
                   "shows": [
                     {
@@ -18971,10 +18971,10 @@
                       "language": "Telugu",
                       "format": "2D",
                       "totalSeats": 540,
-                      "availableSeats": 403,
-                      "soldSeats": 137,
-                      "occupancy": 25.37,
-                      "revenue": 18736.0,
+                      "availableSeats": 402,
+                      "soldSeats": 138,
+                      "occupancy": 25.56,
+                      "revenue": 18884.0,
                       "priceInfo": [
                         {
                           "type": "EXECUTIVE",
@@ -18990,9 +18990,9 @@
                           "code": "1531",
                           "price": 148.0,
                           "total": 454,
-                          "available": 397,
-                          "sold": 57,
-                          "revenue": 8436.0
+                          "available": 396,
+                          "sold": 58,
+                          "revenue": 8584.0
                         },
                         {
                           "type": "RECLINER",
@@ -19659,10 +19659,10 @@
               "cityStats": {
                 "totalShows": 11,
                 "totalSeats": 3646,
-                "seatsAvailable": 3412,
-                "seatsSold": 234,
-                "occupancy": 6.42,
-                "totalRevenue": 29566.0
+                "seatsAvailable": 3410,
+                "seatsSold": 236,
+                "occupancy": 6.47,
+                "totalRevenue": 30156.0
               },
               "theatres": {
                 "1020333": {
@@ -19674,10 +19674,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 1350,
-                    "seatsAvailable": 1270,
-                    "seatsSold": 80,
-                    "occupancy": 5.93,
-                    "totalRevenue": 15040.0
+                    "seatsAvailable": 1268,
+                    "seatsSold": 82,
+                    "occupancy": 6.07,
+                    "totalRevenue": 15630.0
                   },
                   "shows": [
                     {
@@ -19855,10 +19855,10 @@
                       "language": "Telugu",
                       "format": "2D",
                       "totalSeats": 270,
-                      "availableSeats": 241,
-                      "soldSeats": 29,
-                      "occupancy": 10.74,
-                      "revenue": 5485.0,
+                      "availableSeats": 239,
+                      "soldSeats": 31,
+                      "occupancy": 11.48,
+                      "revenue": 6075.0,
                       "priceInfo": [
                         {
                           "type": "SILVER",
@@ -19883,9 +19883,9 @@
                           "code": "2269",
                           "price": 295.0,
                           "total": 20,
-                          "available": 18,
-                          "sold": 2,
-                          "revenue": 590.0
+                          "available": 16,
+                          "sold": 4,
+                          "revenue": 1180.0
                         }
                       ],
                       "statusColor": "G"
@@ -26265,10 +26265,10 @@
           "stateStats": {
             "totalShows": 102,
             "totalSeats": 59331,
-            "seatsAvailable": 49909,
-            "seatsSold": 9422,
+            "seatsAvailable": 49907,
+            "seatsSold": 9424,
             "occupancy": 15.88,
-            "totalRevenue": 1048885.0,
+            "totalRevenue": 1049185.0,
             "totalTheatres": 26
           },
           "cities": {
@@ -26473,10 +26473,10 @@
               "cityStats": {
                 "totalShows": 39,
                 "totalSeats": 24961,
-                "seatsAvailable": 21602,
-                "seatsSold": 3359,
-                "occupancy": 13.46,
-                "totalRevenue": 357150.0
+                "seatsAvailable": 21600,
+                "seatsSold": 3361,
+                "occupancy": 13.47,
+                "totalRevenue": 357450.0
               },
               "theatres": {
                 "1018796": {
@@ -28228,10 +28228,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2512,
-                    "seatsAvailable": 1785,
-                    "seatsSold": 727,
-                    "occupancy": 28.94,
-                    "totalRevenue": 58750.0
+                    "seatsAvailable": 1783,
+                    "seatsSold": 729,
+                    "occupancy": 29.02,
+                    "totalRevenue": 59050.0
                   },
                   "shows": [
                     {
@@ -28283,10 +28283,10 @@
                       "language": "Telugu",
                       "format": "2D",
                       "totalSeats": 628,
-                      "availableSeats": 432,
-                      "soldSeats": 196,
-                      "occupancy": 31.21,
-                      "revenue": 16700.0,
+                      "availableSeats": 430,
+                      "soldSeats": 198,
+                      "occupancy": 31.53,
+                      "revenue": 17000.0,
                       "priceInfo": [
                         {
                           "type": "LOWER CLASS",
@@ -28311,9 +28311,9 @@
                           "code": "1627",
                           "price": 150.0,
                           "total": 384,
-                          "available": 318,
-                          "sold": 66,
-                          "revenue": 9900.0
+                          "available": 316,
+                          "sold": 68,
+                          "revenue": 10200.0
                         }
                       ],
                       "statusColor": "G"
@@ -42768,6 +42768,39 @@
                       "statusColor": "G"
                     },
                     {
+                      "showId": "34094__1773565200__5322__18122",
+                      "showTime": "2026-03-15T09:00",
+                      "screen": "KALAIMAGAL THEATRE",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 482,
+                      "availableSeats": 239,
+                      "soldSeats": 243,
+                      "occupancy": 50.41,
+                      "revenue": 24300.0,
+                      "priceInfo": [
+                        {
+                          "type": "VIP",
+                          "code": "5",
+                          "price": 100.0,
+                          "total": 20,
+                          "available": 0,
+                          "sold": 20,
+                          "revenue": 2000.0
+                        },
+                        {
+                          "type": "PLATINUM",
+                          "code": "10",
+                          "price": 100.0,
+                          "total": 462,
+                          "available": 239,
+                          "sold": 223,
+                          "revenue": 22300.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
                       "showId": "34094__1773579600__5322__18123",
                       "showTime": "2026-03-15T13:00",
                       "screen": "KALAIMAGAL THEATRE",
@@ -42803,39 +42836,6 @@
                     {
                       "showId": "34094__1773554400__5322__18121",
                       "showTime": "2026-03-15T06:00",
-                      "screen": "KALAIMAGAL THEATRE",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 482,
-                      "availableSeats": 239,
-                      "soldSeats": 243,
-                      "occupancy": 50.41,
-                      "revenue": 24300.0,
-                      "priceInfo": [
-                        {
-                          "type": "VIP",
-                          "code": "5",
-                          "price": 100.0,
-                          "total": 20,
-                          "available": 0,
-                          "sold": 20,
-                          "revenue": 2000.0
-                        },
-                        {
-                          "type": "PLATINUM",
-                          "code": "10",
-                          "price": 100.0,
-                          "total": 462,
-                          "available": 239,
-                          "sold": 223,
-                          "revenue": 22300.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
-                      "showId": "34094__1773565200__5322__18122",
-                      "showTime": "2026-03-15T09:00",
                       "screen": "KALAIMAGAL THEATRE",
                       "language": "Tamil",
                       "format": "2D",
@@ -45667,24 +45667,24 @@
       "overallStats": {
         "totalShows": 156,
         "totalSeats": 70134,
-        "seatsAvailable": 61324,
-        "seatsSold": 8810,
+        "seatsAvailable": 61322,
+        "seatsSold": 8812,
         "occupancy": 12.56,
-        "totalRevenue": 944449.0,
+        "totalRevenue": 944739.0,
         "totalTheatres": 40,
         "totalCities": 35,
         "totalStates": 3,
-        "avgRevenuePerShow": 6054.16
+        "avgRevenuePerShow": 6056.02
       },
       "states": {
         "andhra-pradesh": {
           "stateStats": {
             "totalShows": 87,
             "totalSeats": 34706,
-            "seatsAvailable": 30616,
-            "seatsSold": 4090,
-            "occupancy": 11.78,
-            "totalRevenue": 444469.0,
+            "seatsAvailable": 30614,
+            "seatsSold": 4092,
+            "occupancy": 11.79,
+            "totalRevenue": 444759.0,
             "totalTheatres": 22
           },
           "cities": {
@@ -48851,10 +48851,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1012,
-                "seatsAvailable": 949,
-                "seatsSold": 63,
-                "occupancy": 6.23,
-                "totalRevenue": 8685.0
+                "seatsAvailable": 947,
+                "seatsSold": 65,
+                "occupancy": 6.42,
+                "totalRevenue": 8975.0
               },
               "theatres": {
                 "1036959": {
@@ -48866,10 +48866,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1012,
-                    "seatsAvailable": 949,
-                    "seatsSold": 63,
-                    "occupancy": 6.23,
-                    "totalRevenue": 8685.0
+                    "seatsAvailable": 947,
+                    "seatsSold": 65,
+                    "occupancy": 6.42,
+                    "totalRevenue": 8975.0
                   },
                   "shows": [
                     {
@@ -48879,10 +48879,10 @@
                       "language": "Telugu",
                       "format": "2D",
                       "totalSeats": 506,
-                      "availableSeats": 465,
-                      "soldSeats": 41,
-                      "occupancy": 8.1,
-                      "revenue": 5495.0,
+                      "availableSeats": 463,
+                      "soldSeats": 43,
+                      "occupancy": 8.5,
+                      "revenue": 5785.0,
                       "priceInfo": [
                         {
                           "type": "GOLD",
@@ -48898,9 +48898,9 @@
                           "code": "2170",
                           "price": 145.0,
                           "total": 379,
-                          "available": 348,
-                          "sold": 31,
-                          "revenue": 4495.0
+                          "available": 346,
+                          "sold": 33,
+                          "revenue": 4785.0
                         }
                       ],
                       "statusColor": "G"
@@ -50035,48 +50035,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "33958__1773588600__5629__23160",
-                      "showTime": "2026-03-15T15:30",
-                      "screen": "SCREEN 3",
-                      "language": "Telugu",
-                      "format": "2D",
-                      "totalSeats": 206,
-                      "availableSeats": 181,
-                      "soldSeats": 25,
-                      "occupancy": 12.14,
-                      "revenue": 4050.0,
-                      "priceInfo": [
-                        {
-                          "type": "SILVER",
-                          "code": "21",
-                          "price": 105.0,
-                          "total": 38,
-                          "available": 38,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "GOLD",
-                          "code": "20",
-                          "price": 150.0,
-                          "total": 152,
-                          "available": 133,
-                          "sold": 19,
-                          "revenue": 2850.0
-                        },
-                        {
-                          "type": "RECLINER",
-                          "code": "10",
-                          "price": 200.0,
-                          "total": 16,
-                          "available": 10,
-                          "sold": 6,
-                          "revenue": 1200.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "33958__1773554400__5629__23156",
                       "showTime": "2026-03-15T06:00",
                       "screen": "SCREEN 3",
@@ -50163,6 +50121,48 @@
                     {
                       "showId": "33958__1773578700__5629__23159",
                       "showTime": "2026-03-15T12:45",
+                      "screen": "SCREEN 3",
+                      "language": "Telugu",
+                      "format": "2D",
+                      "totalSeats": 206,
+                      "availableSeats": 181,
+                      "soldSeats": 25,
+                      "occupancy": 12.14,
+                      "revenue": 4050.0,
+                      "priceInfo": [
+                        {
+                          "type": "SILVER",
+                          "code": "21",
+                          "price": 105.0,
+                          "total": 38,
+                          "available": 38,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "GOLD",
+                          "code": "20",
+                          "price": 150.0,
+                          "total": 152,
+                          "available": 133,
+                          "sold": 19,
+                          "revenue": 2850.0
+                        },
+                        {
+                          "type": "RECLINER",
+                          "code": "10",
+                          "price": 200.0,
+                          "total": 16,
+                          "available": 10,
+                          "sold": 6,
+                          "revenue": 1200.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33958__1773588600__5629__23160",
+                      "showTime": "2026-03-15T15:30",
                       "screen": "SCREEN 3",
                       "language": "Telugu",
                       "format": "2D",
@@ -54404,39 +54404,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "34095__1773564300__5101__20608",
-                      "showTime": "2026-03-15T08:45",
-                      "screen": "MURUGAN BARCO RGB LASER",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 309,
-                      "availableSeats": 276,
-                      "soldSeats": 33,
-                      "occupancy": 10.68,
-                      "revenue": 3630.0,
-                      "priceInfo": [
-                        {
-                          "type": "ELITE",
-                          "code": "20",
-                          "price": 110.0,
-                          "total": 285,
-                          "available": 252,
-                          "sold": 33,
-                          "revenue": 3630.0
-                        },
-                        {
-                          "type": "ELITECOUPLE",
-                          "code": "10",
-                          "price": 130.0,
-                          "total": 24,
-                          "available": 24,
-                          "sold": 0,
-                          "revenue": 0.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "34095__1773589500__5101__20610",
                       "showTime": "2026-03-15T15:45",
                       "screen": "MURUGAN BARCO RGB LASER",
@@ -54505,6 +54472,39 @@
                     {
                       "showId": "34095__1773578700__5101__20609",
                       "showTime": "2026-03-15T12:45",
+                      "screen": "MURUGAN BARCO RGB LASER",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 309,
+                      "availableSeats": 276,
+                      "soldSeats": 33,
+                      "occupancy": 10.68,
+                      "revenue": 3630.0,
+                      "priceInfo": [
+                        {
+                          "type": "ELITE",
+                          "code": "20",
+                          "price": 110.0,
+                          "total": 285,
+                          "available": 252,
+                          "sold": 33,
+                          "revenue": 3630.0
+                        },
+                        {
+                          "type": "ELITECOUPLE",
+                          "code": "10",
+                          "price": 130.0,
+                          "total": 24,
+                          "available": 24,
+                          "sold": 0,
+                          "revenue": 0.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "34095__1773564300__5101__20608",
+                      "showTime": "2026-03-15T08:45",
                       "screen": "MURUGAN BARCO RGB LASER",
                       "language": "Tamil",
                       "format": "2D",
@@ -57488,39 +57488,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "34049__1773590400__176__1241823",
-                      "showTime": "2026-03-15T16:00",
-                      "screen": "SCREEN 2",
-                      "language": "Malayalam",
-                      "format": "2D",
-                      "totalSeats": 172,
-                      "availableSeats": 172,
-                      "soldSeats": 0,
-                      "occupancy": 0.0,
-                      "revenue": 0.0,
-                      "priceInfo": [
-                        {
-                          "type": "GOLD",
-                          "code": "311",
-                          "price": 170.0,
-                          "total": 152,
-                          "available": 152,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "PLATINUM",
-                          "code": "310",
-                          "price": 250.0,
-                          "total": 20,
-                          "available": 20,
-                          "sold": 0,
-                          "revenue": 0.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "34049__1773581400__176__1241822",
                       "showTime": "2026-03-15T13:30",
                       "screen": "SCREEN 2",
@@ -57573,6 +57540,39 @@
                           "available": 147,
                           "sold": 5,
                           "revenue": 850.0
+                        },
+                        {
+                          "type": "PLATINUM",
+                          "code": "310",
+                          "price": 250.0,
+                          "total": 20,
+                          "available": 20,
+                          "sold": 0,
+                          "revenue": 0.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "34049__1773590400__176__1241823",
+                      "showTime": "2026-03-15T16:00",
+                      "screen": "SCREEN 2",
+                      "language": "Malayalam",
+                      "format": "2D",
+                      "totalSeats": 172,
+                      "availableSeats": 172,
+                      "soldSeats": 0,
+                      "occupancy": 0.0,
+                      "revenue": 0.0,
+                      "priceInfo": [
+                        {
+                          "type": "GOLD",
+                          "code": "311",
+                          "price": 170.0,
+                          "total": 152,
+                          "available": 152,
+                          "sold": 0,
+                          "revenue": 0.0
                         },
                         {
                           "type": "PLATINUM",
@@ -61263,14 +61263,14 @@
       "overallStats": {
         "totalShows": 623,
         "totalSeats": 282513,
-        "seatsAvailable": 229996,
-        "seatsSold": 52517,
+        "seatsAvailable": 229986,
+        "seatsSold": 52527,
         "occupancy": 18.59,
-        "totalRevenue": 6230564.73,
+        "totalRevenue": 6232004.73,
         "totalTheatres": 138,
         "totalCities": 81,
         "totalStates": 6,
-        "avgRevenuePerShow": 10000.91
+        "avgRevenuePerShow": 10003.22
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -62842,10 +62842,10 @@
           "stateStats": {
             "totalShows": 590,
             "totalSeats": 267696,
-            "seatsAvailable": 218214,
-            "seatsSold": 49482,
-            "occupancy": 18.48,
-            "totalRevenue": 5774881.73,
+            "seatsAvailable": 218204,
+            "seatsSold": 49492,
+            "occupancy": 18.49,
+            "totalRevenue": 5776321.73,
             "totalTheatres": 129
           },
           "cities": {
@@ -63905,8 +63905,8 @@
                       "statusColor": "G"
                     },
                     {
-                      "showId": "33960__1773565200__1272__1245678",
-                      "showTime": "2026-03-15T09:00",
+                      "showId": "33960__1773579600__1272__1245679",
+                      "showTime": "2026-03-15T13:00",
                       "screen": "SCREEN 1",
                       "language": "Tamil",
                       "format": "2D",
@@ -63938,8 +63938,8 @@
                       "statusColor": "G"
                     },
                     {
-                      "showId": "33960__1773579600__1272__1245679",
-                      "showTime": "2026-03-15T13:00",
+                      "showId": "33960__1773565200__1272__1245678",
+                      "showTime": "2026-03-15T09:00",
                       "screen": "SCREEN 1",
                       "language": "Tamil",
                       "format": "2D",
@@ -65924,10 +65924,10 @@
               "cityStats": {
                 "totalShows": 140,
                 "totalSeats": 68832,
-                "seatsAvailable": 53865,
-                "seatsSold": 14967,
-                "occupancy": 21.74,
-                "totalRevenue": 1948361.73
+                "seatsAvailable": 53857,
+                "seatsSold": 14975,
+                "occupancy": 21.76,
+                "totalRevenue": 1949561.73
               },
               "theatres": {
                 "1016088": {
@@ -68784,10 +68784,10 @@
                   "stats": {
                     "totalShows": 12,
                     "totalSeats": 5800,
-                    "seatsAvailable": 3333,
-                    "seatsSold": 2467,
-                    "occupancy": 42.53,
-                    "totalRevenue": 370050.0
+                    "seatsAvailable": 3325,
+                    "seatsSold": 2475,
+                    "occupancy": 42.67,
+                    "totalRevenue": 371250.0
                   },
                   "shows": [
                     {
@@ -68797,19 +68797,19 @@
                       "language": "Tamil",
                       "format": "2D",
                       "totalSeats": 550,
-                      "availableSeats": 287,
-                      "soldSeats": 263,
-                      "occupancy": 47.82,
-                      "revenue": 39450.0,
+                      "availableSeats": 285,
+                      "soldSeats": 265,
+                      "occupancy": 48.18,
+                      "revenue": 39750.0,
                       "priceInfo": [
                         {
                           "type": "ELITE",
                           "code": "1",
                           "price": 150.0,
                           "total": 550,
-                          "available": 287,
-                          "sold": 263,
-                          "revenue": 39450.0
+                          "available": 285,
+                          "sold": 265,
+                          "revenue": 39750.0
                         }
                       ],
                       "statusColor": "G"
@@ -68821,19 +68821,19 @@
                       "language": "Tamil",
                       "format": "2D",
                       "totalSeats": 550,
-                      "availableSeats": 329,
-                      "soldSeats": 221,
-                      "occupancy": 40.18,
-                      "revenue": 33150.0,
+                      "availableSeats": 326,
+                      "soldSeats": 224,
+                      "occupancy": 40.73,
+                      "revenue": 33600.0,
                       "priceInfo": [
                         {
                           "type": "ELITE",
                           "code": "1",
                           "price": 150.0,
                           "total": 550,
-                          "available": 329,
-                          "sold": 221,
-                          "revenue": 33150.0
+                          "available": 326,
+                          "sold": 224,
+                          "revenue": 33600.0
                         }
                       ],
                       "statusColor": "G"
@@ -69013,19 +69013,19 @@
                       "language": "Tamil",
                       "format": "2D",
                       "totalSeats": 550,
-                      "availableSeats": 341,
-                      "soldSeats": 209,
-                      "occupancy": 38.0,
-                      "revenue": 31350.0,
+                      "availableSeats": 338,
+                      "soldSeats": 212,
+                      "occupancy": 38.55,
+                      "revenue": 31800.0,
                       "priceInfo": [
                         {
                           "type": "ELITE",
                           "code": "1",
                           "price": 150.0,
                           "total": 550,
-                          "available": 341,
-                          "sold": 209,
-                          "revenue": 31350.0
+                          "available": 338,
+                          "sold": 212,
+                          "revenue": 31800.0
                         }
                       ],
                       "statusColor": "G"
@@ -69350,57 +69350,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "33960__1773567000__4057__16722",
-                      "showTime": "2026-03-15T09:30",
-                      "screen": "SCREEN 1",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 144,
-                      "availableSeats": 127,
-                      "soldSeats": 17,
-                      "occupancy": 11.81,
-                      "revenue": 2980.0,
-                      "priceInfo": [
-                        {
-                          "type": "SUPER PREMIUM",
-                          "code": "61",
-                          "price": 130.0,
-                          "total": 6,
-                          "available": 0,
-                          "sold": 6,
-                          "revenue": 780.0
-                        },
-                        {
-                          "type": "PREMIUM CLASS",
-                          "code": "63",
-                          "price": 130.0,
-                          "total": 102,
-                          "available": 102,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "LOUNGER",
-                          "code": "65",
-                          "price": 130.0,
-                          "total": 9,
-                          "available": 9,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "RECLINER",
-                          "code": "62",
-                          "price": 200.0,
-                          "total": 27,
-                          "available": 16,
-                          "sold": 11,
-                          "revenue": 2200.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "33960__1773554400__4057__16721",
                       "showTime": "2026-03-15T06:00",
                       "screen": "SCREEN 1",
@@ -69447,6 +69396,57 @@
                           "available": 15,
                           "sold": 12,
                           "revenue": 2400.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33960__1773567000__4057__16722",
+                      "showTime": "2026-03-15T09:30",
+                      "screen": "SCREEN 1",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 144,
+                      "availableSeats": 127,
+                      "soldSeats": 17,
+                      "occupancy": 11.81,
+                      "revenue": 2980.0,
+                      "priceInfo": [
+                        {
+                          "type": "SUPER PREMIUM",
+                          "code": "61",
+                          "price": 130.0,
+                          "total": 6,
+                          "available": 0,
+                          "sold": 6,
+                          "revenue": 780.0
+                        },
+                        {
+                          "type": "PREMIUM CLASS",
+                          "code": "63",
+                          "price": 130.0,
+                          "total": 102,
+                          "available": 102,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "LOUNGER",
+                          "code": "65",
+                          "price": 130.0,
+                          "total": 9,
+                          "available": 9,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "RECLINER",
+                          "code": "62",
+                          "price": 200.0,
+                          "total": 27,
+                          "available": 16,
+                          "sold": 11,
+                          "revenue": 2200.0
                         }
                       ],
                       "statusColor": "G"
@@ -78506,90 +78506,6 @@
                       "statusColor": "G"
                     },
                     {
-                      "showId": "33960__1773580500__6035__14298",
-                      "showTime": "2026-03-15T13:15",
-                      "screen": "SCREEN 3",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 236,
-                      "availableSeats": 207,
-                      "soldSeats": 29,
-                      "occupancy": 12.29,
-                      "revenue": 3170.0,
-                      "priceInfo": [
-                        {
-                          "type": "SILVER",
-                          "code": "30",
-                          "price": 60.0,
-                          "total": 20,
-                          "available": 2,
-                          "sold": 18,
-                          "revenue": 1080.0
-                        },
-                        {
-                          "type": "PREMIUM SLIDER",
-                          "code": "20",
-                          "price": 150.0,
-                          "total": 204,
-                          "available": 204,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "RECLINER GOLD",
-                          "code": "10",
-                          "price": 190.0,
-                          "total": 12,
-                          "available": 1,
-                          "sold": 11,
-                          "revenue": 2090.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
-                      "showId": "33960__1773569700__6035__14297",
-                      "showTime": "2026-03-15T10:15",
-                      "screen": "SCREEN 3",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 236,
-                      "availableSeats": 202,
-                      "soldSeats": 34,
-                      "occupancy": 14.41,
-                      "revenue": 3960.0,
-                      "priceInfo": [
-                        {
-                          "type": "SILVER",
-                          "code": "30",
-                          "price": 60.0,
-                          "total": 20,
-                          "available": 2,
-                          "sold": 18,
-                          "revenue": 1080.0
-                        },
-                        {
-                          "type": "PREMIUM SLIDER",
-                          "code": "20",
-                          "price": 150.0,
-                          "total": 204,
-                          "available": 200,
-                          "sold": 4,
-                          "revenue": 600.0
-                        },
-                        {
-                          "type": "RECLINER GOLD",
-                          "code": "10",
-                          "price": 190.0,
-                          "total": 12,
-                          "available": 0,
-                          "sold": 12,
-                          "revenue": 2280.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "33960__1773558900__6035__14296",
                       "showTime": "2026-03-15T07:15",
                       "screen": "SCREEN 3",
@@ -78669,6 +78585,90 @@
                           "available": 3,
                           "sold": 9,
                           "revenue": 1710.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33960__1773580500__6035__14298",
+                      "showTime": "2026-03-15T13:15",
+                      "screen": "SCREEN 3",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 236,
+                      "availableSeats": 207,
+                      "soldSeats": 29,
+                      "occupancy": 12.29,
+                      "revenue": 3170.0,
+                      "priceInfo": [
+                        {
+                          "type": "SILVER",
+                          "code": "30",
+                          "price": 60.0,
+                          "total": 20,
+                          "available": 2,
+                          "sold": 18,
+                          "revenue": 1080.0
+                        },
+                        {
+                          "type": "PREMIUM SLIDER",
+                          "code": "20",
+                          "price": 150.0,
+                          "total": 204,
+                          "available": 204,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "RECLINER GOLD",
+                          "code": "10",
+                          "price": 190.0,
+                          "total": 12,
+                          "available": 1,
+                          "sold": 11,
+                          "revenue": 2090.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33960__1773569700__6035__14297",
+                      "showTime": "2026-03-15T10:15",
+                      "screen": "SCREEN 3",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 236,
+                      "availableSeats": 202,
+                      "soldSeats": 34,
+                      "occupancy": 14.41,
+                      "revenue": 3960.0,
+                      "priceInfo": [
+                        {
+                          "type": "SILVER",
+                          "code": "30",
+                          "price": 60.0,
+                          "total": 20,
+                          "available": 2,
+                          "sold": 18,
+                          "revenue": 1080.0
+                        },
+                        {
+                          "type": "PREMIUM SLIDER",
+                          "code": "20",
+                          "price": 150.0,
+                          "total": 204,
+                          "available": 200,
+                          "sold": 4,
+                          "revenue": 600.0
+                        },
+                        {
+                          "type": "RECLINER GOLD",
+                          "code": "10",
+                          "price": 190.0,
+                          "total": 12,
+                          "available": 0,
+                          "sold": 12,
+                          "revenue": 2280.0
                         }
                       ],
                       "statusColor": "G"
@@ -83026,8 +83026,8 @@
                       "statusColor": "G"
                     },
                     {
-                      "showId": "33960__1773579600__755__1240639",
-                      "showTime": "2026-03-15T13:00",
+                      "showId": "33960__1773567000__755__1240638",
+                      "showTime": "2026-03-15T09:30",
                       "screen": "MKG FILM PALACE",
                       "language": "Tamil",
                       "format": "2D",
@@ -83077,8 +83077,8 @@
                       "statusColor": "G"
                     },
                     {
-                      "showId": "33960__1773567000__755__1240638",
-                      "showTime": "2026-03-15T09:30",
+                      "showId": "33960__1773579600__755__1240639",
+                      "showTime": "2026-03-15T13:00",
                       "screen": "MKG FILM PALACE",
                       "language": "Tamil",
                       "format": "2D",
@@ -83991,10 +83991,10 @@
               "cityStats": {
                 "totalShows": 13,
                 "totalSeats": 6947,
-                "seatsAvailable": 6691,
-                "seatsSold": 256,
-                "occupancy": 3.69,
-                "totalRevenue": 31730.0
+                "seatsAvailable": 6689,
+                "seatsSold": 258,
+                "occupancy": 3.71,
+                "totalRevenue": 31970.0
               },
               "theatres": {
                 "25045": {
@@ -84376,10 +84376,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 3151,
-                    "seatsAvailable": 3022,
-                    "seatsSold": 129,
-                    "occupancy": 4.09,
-                    "totalRevenue": 15160.0
+                    "seatsAvailable": 3020,
+                    "seatsSold": 131,
+                    "occupancy": 4.16,
+                    "totalRevenue": 15400.0
                   },
                   "shows": [
                     {
@@ -84521,10 +84521,10 @@
                       "language": "Tamil",
                       "format": "2D",
                       "totalSeats": 750,
-                      "availableSeats": 719,
-                      "soldSeats": 31,
-                      "occupancy": 4.13,
-                      "revenue": 3620.0,
+                      "availableSeats": 717,
+                      "soldSeats": 33,
+                      "occupancy": 4.4,
+                      "revenue": 3860.0,
                       "priceInfo": [
                         {
                           "type": "GRANDE",
@@ -84540,9 +84540,9 @@
                           "code": "1",
                           "price": 120.0,
                           "total": 277,
-                          "available": 251,
-                          "sold": 26,
-                          "revenue": 3120.0
+                          "available": 249,
+                          "sold": 28,
+                          "revenue": 3360.0
                         }
                       ],
                       "statusColor": "G"
@@ -87426,39 +87426,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "33960__1773580500__5649__13068",
-                      "showTime": "2026-03-15T13:15",
-                      "screen": "SCREEN 1 G[XL] RGB LASER DOLBY ATMOS",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 308,
-                      "availableSeats": 276,
-                      "soldSeats": 32,
-                      "occupancy": 10.39,
-                      "revenue": 4340.0,
-                      "priceInfo": [
-                        {
-                          "type": "ELITE",
-                          "code": "31",
-                          "price": 130.0,
-                          "total": 230,
-                          "available": 207,
-                          "sold": 23,
-                          "revenue": 2990.0
-                        },
-                        {
-                          "type": "ELITE PLUS",
-                          "code": "8",
-                          "price": 150.0,
-                          "total": 78,
-                          "available": 69,
-                          "sold": 9,
-                          "revenue": 1350.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "33960__1773554400__5649__13066",
                       "showTime": "2026-03-15T06:00",
                       "screen": "SCREEN 1 G[XL] RGB LASER DOLBY ATMOS",
@@ -87511,6 +87478,39 @@
                           "available": 201,
                           "sold": 29,
                           "revenue": 3770.0
+                        },
+                        {
+                          "type": "ELITE PLUS",
+                          "code": "8",
+                          "price": 150.0,
+                          "total": 78,
+                          "available": 69,
+                          "sold": 9,
+                          "revenue": 1350.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33960__1773580500__5649__13068",
+                      "showTime": "2026-03-15T13:15",
+                      "screen": "SCREEN 1 G[XL] RGB LASER DOLBY ATMOS",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 308,
+                      "availableSeats": 276,
+                      "soldSeats": 32,
+                      "occupancy": 10.39,
+                      "revenue": 4340.0,
+                      "priceInfo": [
+                        {
+                          "type": "ELITE",
+                          "code": "31",
+                          "price": 130.0,
+                          "total": 230,
+                          "available": 207,
+                          "sold": 23,
+                          "revenue": 2990.0
                         },
                         {
                           "type": "ELITE PLUS",
@@ -96277,54 +96277,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "34090__1773565200__5102__20657",
-                      "showTime": "2026-03-15T09:00",
-                      "screen": "KARTHICK NEC 2K 3D",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 100,
-                      "availableSeats": 90,
-                      "soldSeats": 10,
-                      "occupancy": 10.0,
-                      "revenue": 1100.0,
-                      "priceInfo": [
-                        {
-                          "type": "ELITE",
-                          "code": "20",
-                          "price": 110.0,
-                          "total": 100,
-                          "available": 90,
-                          "sold": 10,
-                          "revenue": 1100.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
-                      "showId": "34090__1773590400__5102__20659",
-                      "showTime": "2026-03-15T16:00",
-                      "screen": "KARTHICK NEC 2K 3D",
-                      "language": "Tamil",
-                      "format": "2D",
-                      "totalSeats": 100,
-                      "availableSeats": 90,
-                      "soldSeats": 10,
-                      "occupancy": 10.0,
-                      "revenue": 1100.0,
-                      "priceInfo": [
-                        {
-                          "type": "ELITE",
-                          "code": "20",
-                          "price": 110.0,
-                          "total": 100,
-                          "available": 90,
-                          "sold": 10,
-                          "revenue": 1100.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "34090__1773579600__5102__20658",
                       "showTime": "2026-03-15T13:00",
                       "screen": "KARTHICK NEC 2K 3D",
@@ -96351,6 +96303,54 @@
                     {
                       "showId": "34090__1773554400__5102__20656",
                       "showTime": "2026-03-15T06:00",
+                      "screen": "KARTHICK NEC 2K 3D",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 100,
+                      "availableSeats": 90,
+                      "soldSeats": 10,
+                      "occupancy": 10.0,
+                      "revenue": 1100.0,
+                      "priceInfo": [
+                        {
+                          "type": "ELITE",
+                          "code": "20",
+                          "price": 110.0,
+                          "total": 100,
+                          "available": 90,
+                          "sold": 10,
+                          "revenue": 1100.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "34090__1773565200__5102__20657",
+                      "showTime": "2026-03-15T09:00",
+                      "screen": "KARTHICK NEC 2K 3D",
+                      "language": "Tamil",
+                      "format": "2D",
+                      "totalSeats": 100,
+                      "availableSeats": 90,
+                      "soldSeats": 10,
+                      "occupancy": 10.0,
+                      "revenue": 1100.0,
+                      "priceInfo": [
+                        {
+                          "type": "ELITE",
+                          "code": "20",
+                          "price": 110.0,
+                          "total": 100,
+                          "available": 90,
+                          "sold": 10,
+                          "revenue": 1100.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "34090__1773590400__5102__20659",
+                      "showTime": "2026-03-15T16:00",
                       "screen": "KARTHICK NEC 2K 3D",
                       "language": "Tamil",
                       "format": "2D",
@@ -101881,48 +101881,6 @@
                   },
                   "shows": [
                     {
-                      "showId": "33968__1773591000__884__1245105",
-                      "showTime": "2026-03-15T16:10",
-                      "screen": "ESWAR MAHAL",
-                      "language": "Telugu",
-                      "format": "2D",
-                      "totalSeats": 416,
-                      "availableSeats": 416,
-                      "soldSeats": 0,
-                      "occupancy": 0.0,
-                      "revenue": 0.0,
-                      "priceInfo": [
-                        {
-                          "type": "PREMIUM",
-                          "code": "1677",
-                          "price": 105.0,
-                          "total": 295,
-                          "available": 295,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "NON PREMIUM",
-                          "code": "1678",
-                          "price": 105.0,
-                          "total": 103,
-                          "available": 103,
-                          "sold": 0,
-                          "revenue": 0.0
-                        },
-                        {
-                          "type": "RECLINER",
-                          "code": "1676",
-                          "price": 295.0,
-                          "total": 18,
-                          "available": 18,
-                          "sold": 0,
-                          "revenue": 0.0
-                        }
-                      ],
-                      "statusColor": "G"
-                    },
-                    {
                       "showId": "33968__1773580200__884__1245104",
                       "showTime": "2026-03-15T13:10",
                       "screen": "ESWAR MAHAL",
@@ -101967,6 +101925,48 @@
                     {
                       "showId": "33968__1773555000__884__1245102",
                       "showTime": "2026-03-15T06:10",
+                      "screen": "ESWAR MAHAL",
+                      "language": "Telugu",
+                      "format": "2D",
+                      "totalSeats": 416,
+                      "availableSeats": 416,
+                      "soldSeats": 0,
+                      "occupancy": 0.0,
+                      "revenue": 0.0,
+                      "priceInfo": [
+                        {
+                          "type": "PREMIUM",
+                          "code": "1677",
+                          "price": 105.0,
+                          "total": 295,
+                          "available": 295,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "NON PREMIUM",
+                          "code": "1678",
+                          "price": 105.0,
+                          "total": 103,
+                          "available": 103,
+                          "sold": 0,
+                          "revenue": 0.0
+                        },
+                        {
+                          "type": "RECLINER",
+                          "code": "1676",
+                          "price": 295.0,
+                          "total": 18,
+                          "available": 18,
+                          "sold": 0,
+                          "revenue": 0.0
+                        }
+                      ],
+                      "statusColor": "G"
+                    },
+                    {
+                      "showId": "33968__1773591000__884__1245105",
+                      "showTime": "2026-03-15T16:10",
                       "screen": "ESWAR MAHAL",
                       "language": "Telugu",
                       "format": "2D",
