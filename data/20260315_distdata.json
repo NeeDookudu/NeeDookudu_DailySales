@@ -27322,44 +27322,34 @@
               "theatres": {
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34049__1773586800__387__1250969": {
-                      "showId": "34049__1773586800__387__1250969",
-                      "showTime": "2026-03-15T15:00",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 210,
-                      "soldSeats": 2,
-                      "revenue": 320.0
-                    }
-                  },
+                  "shows": {},
                   "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 212,
-                    "seatsAvailable": 210,
-                    "seatsSold": 2,
-                    "occupancy": 0.94,
-                    "totalRevenue": 320.0
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 212,
-                "seatsAvailable": 210,
-                "seatsSold": 2,
-                "occupancy": 0.94,
-                "totalRevenue": 320.0
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
               }
             }
           },
           "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 212,
-            "seatsAvailable": 210,
-            "seatsSold": 2,
-            "occupancy": 0.94,
-            "totalRevenue": 320.0,
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0,
             "totalTheatres": 1
           }
         },
@@ -27402,12 +27392,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 55,
-        "totalSeats": 13397,
-        "seatsAvailable": 11627,
-        "seatsSold": 1770,
-        "occupancy": 13.21,
-        "totalRevenue": 243973.2,
+        "totalShows": 54,
+        "totalSeats": 13185,
+        "seatsAvailable": 11417,
+        "seatsSold": 1768,
+        "occupancy": 13.41,
+        "totalRevenue": 243653.2,
         "totalTheatres": 21
       }
     },
