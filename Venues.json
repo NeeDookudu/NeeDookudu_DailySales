@@ -1,5 +1,17 @@
 [
   {
+    "VenueCode": "ALUC",
+    "VenueName": "ALLU Cinemas: Kokapet",
+    "VenueAddress": "Plot 20, Adjacent to Allu Studios, Power Welfare Society, Narsingi, Hyderabad, Telangana 500075, India",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "RegionCode": "HYD",
+    "SubRegionCode": "HYD",
+    "Latitude": "17.3896",
+    "Longitude": "78.3439",
+    "AvailableFormats": "2D|3D"
+  },
+  {
     "VenueCode": "TGMR",
     "VenueName": "9D Theatre: Grand Mall, Raigarh",
     "VenueAddress": "Grand Mall, 4th Floor, Gouri Shankar Mandir Chowk, Raigarh, Chhattisgarh 496001, India",
