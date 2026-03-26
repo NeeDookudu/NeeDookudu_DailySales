@@ -15998,9 +15998,9 @@
                       "showTime": "2026-03-26T18:29",
                       "screen": "AUDI 1",
                       "totalSeats": 321,
-                      "availableSeats": 289,
-                      "soldSeats": 32,
-                      "revenue": 5760.0
+                      "availableSeats": 259,
+                      "soldSeats": 62,
+                      "revenue": 11160.0
                     },
                     "33986__1774511100__600__1290768": {
                       "showId": "33986__1774511100__600__1290768",
@@ -16015,10 +16015,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 434,
-                    "seatsAvailable": 371,
-                    "seatsSold": 63,
-                    "occupancy": 14.52,
-                    "totalRevenue": 10610.0
+                    "seatsAvailable": 341,
+                    "seatsSold": 93,
+                    "occupancy": 21.43,
+                    "totalRevenue": 16010.0
                   }
                 },
                 "1049289": {
@@ -16056,10 +16056,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 778,
-                "seatsAvailable": 641,
-                "seatsSold": 137,
-                "occupancy": 17.61,
-                "totalRevenue": 24420.0
+                "seatsAvailable": 611,
+                "seatsSold": 167,
+                "occupancy": 21.47,
+                "totalRevenue": 29820.0
               }
             },
             "Arakkunnam": {
@@ -17118,10 +17118,10 @@
           "stateStats": {
             "totalShows": 65,
             "totalSeats": 12859,
-            "seatsAvailable": 10721,
-            "seatsSold": 2138,
-            "occupancy": 16.63,
-            "totalRevenue": 292388.54
+            "seatsAvailable": 10691,
+            "seatsSold": 2168,
+            "occupancy": 16.86,
+            "totalRevenue": 297788.54
           }
         },
         "andaman-and-nicobar-islands": {
@@ -19523,10 +19523,10 @@
       "overallStats": {
         "totalShows": 1112,
         "totalSeats": 340854,
-        "seatsAvailable": 270364,
-        "seatsSold": 70490,
-        "occupancy": 20.68,
-        "totalRevenue": 11860068.94
+        "seatsAvailable": 270334,
+        "seatsSold": 70520,
+        "occupancy": 20.69,
+        "totalRevenue": 11865468.94
       }
     },
     "Ustaad Bhagat Singh": {
@@ -33025,18 +33025,18 @@
                       "showTime": "2026-03-26T18:29",
                       "screen": "SCREEN1",
                       "totalSeats": 606,
-                      "availableSeats": 567,
-                      "soldSeats": 39,
-                      "revenue": 4935.3
+                      "availableSeats": 278,
+                      "soldSeats": 328,
+                      "revenue": 36403.75
                     }
                   },
                   "stats": {
                     "totalShows": 7,
                     "totalSeats": 4242,
-                    "seatsAvailable": 2879,
-                    "seatsSold": 1363,
-                    "occupancy": 32.13,
-                    "totalRevenue": 162149.05
+                    "seatsAvailable": 2590,
+                    "seatsSold": 1652,
+                    "occupancy": 38.94,
+                    "totalRevenue": 193617.5
                   }
                 },
                 "1042640": {
@@ -33564,10 +33564,10 @@
               "cityStats": {
                 "totalShows": 116,
                 "totalSeats": 58072,
-                "seatsAvailable": 46869,
-                "seatsSold": 11203,
-                "occupancy": 19.29,
-                "totalRevenue": 1489889.47
+                "seatsAvailable": 46580,
+                "seatsSold": 11492,
+                "occupancy": 19.79,
+                "totalRevenue": 1521357.92
               }
             },
             "Thiruvallur": {
@@ -39511,10 +39511,10 @@
           "stateStats": {
             "totalShows": 531,
             "totalSeats": 221823,
-            "seatsAvailable": 195374,
-            "seatsSold": 26449,
-            "occupancy": 11.92,
-            "totalRevenue": 3575099.47
+            "seatsAvailable": 195085,
+            "seatsSold": 26738,
+            "occupancy": 12.05,
+            "totalRevenue": 3606567.92
           }
         },
         "puducherry": {
@@ -40080,10 +40080,10 @@
       "overallStats": {
         "totalShows": 564,
         "totalSeats": 237528,
-        "seatsAvailable": 207932,
-        "seatsSold": 29596,
-        "occupancy": 12.46,
-        "totalRevenue": 4023085.67
+        "seatsAvailable": 207643,
+        "seatsSold": 29885,
+        "occupancy": 12.58,
+        "totalRevenue": 4054554.12
       }
     },
     "Prathichaya": {
@@ -42070,47 +42070,38 @@
                       "showTime": "2026-03-26T16:45",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
-                      "availableSeats": 186,
-                      "soldSeats": 26,
-                      "revenue": 4160.0
-                    },
-                    "34136__1774531800__387__1289113": {
-                      "showId": "34136__1774531800__387__1289113",
-                      "showTime": "2026-03-26T13:30",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 194,
-                      "soldSeats": 18,
-                      "revenue": 2880.0
+                      "availableSeats": 180,
+                      "soldSeats": 32,
+                      "revenue": 5120.0
                     }
                   },
                   "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 424,
-                    "seatsAvailable": 380,
-                    "seatsSold": 44,
-                    "occupancy": 10.38,
-                    "totalRevenue": 7040.0
+                    "totalShows": 1,
+                    "totalSeats": 212,
+                    "seatsAvailable": 180,
+                    "seatsSold": 32,
+                    "occupancy": 15.09,
+                    "totalRevenue": 5120.0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 424,
-                "seatsAvailable": 380,
-                "seatsSold": 44,
-                "occupancy": 10.38,
-                "totalRevenue": 7040.0
+                "totalShows": 1,
+                "totalSeats": 212,
+                "seatsAvailable": 180,
+                "seatsSold": 32,
+                "occupancy": 15.09,
+                "totalRevenue": 5120.0
               }
             }
           },
           "stateStats": {
-            "totalShows": 2,
-            "totalSeats": 424,
-            "seatsAvailable": 380,
-            "seatsSold": 44,
-            "occupancy": 10.38,
-            "totalRevenue": 7040.0
+            "totalShows": 1,
+            "totalSeats": 212,
+            "seatsAvailable": 180,
+            "seatsSold": 32,
+            "occupancy": 15.09,
+            "totalRevenue": 5120.0
           }
         },
         "andhra-pradesh": {
@@ -42158,61 +42149,15 @@
             "occupancy": 0.59,
             "totalRevenue": 177.0
           }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34136__1774543500__387__1289114": {
-                      "showId": "34136__1774543500__387__1289114",
-                      "showTime": "2026-03-26T16:45",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 180,
-                      "soldSeats": 32,
-                      "revenue": 5120.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 212,
-                    "seatsAvailable": 180,
-                    "seatsSold": 32,
-                    "occupancy": 15.09,
-                    "totalRevenue": 5120.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 212,
-                "seatsAvailable": 180,
-                "seatsSold": 32,
-                "occupancy": 15.09,
-                "totalRevenue": 5120.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 212,
-            "seatsAvailable": 180,
-            "seatsSold": 32,
-            "occupancy": 15.09,
-            "totalRevenue": 5120.0
-          }
         }
       },
       "overallStats": {
-        "totalShows": 128,
-        "totalSeats": 28327,
-        "seatsAvailable": 24417,
-        "seatsSold": 3910,
-        "occupancy": 13.8,
-        "totalRevenue": 556564.3
+        "totalShows": 127,
+        "totalSeats": 28115,
+        "seatsAvailable": 24223,
+        "seatsSold": 3892,
+        "occupancy": 13.84,
+        "totalRevenue": 553684.3
       }
     },
     "Kolaiseval": {
@@ -45258,61 +45203,6 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34133__1774530000__388__1289120": {
-                      "showId": "34133__1774530000__388__1289120",
-                      "showTime": "2026-03-26T13:00",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 173,
-                      "soldSeats": 15,
-                      "revenue": 2400.0
-                    },
-                    "34133__1774542600__388__1289121": {
-                      "showId": "34133__1774542600__388__1289121",
-                      "showTime": "2026-03-26T16:30",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 166,
-                      "soldSeats": 22,
-                      "revenue": 3520.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 376,
-                    "seatsAvailable": 339,
-                    "seatsSold": 37,
-                    "occupancy": 9.84,
-                    "totalRevenue": 5920.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 376,
-                "seatsAvailable": 339,
-                "seatsSold": 37,
-                "occupancy": 9.84,
-                "totalRevenue": 5920.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 2,
-            "totalSeats": 376,
-            "seatsAvailable": 339,
-            "seatsSold": 37,
-            "occupancy": 9.84,
-            "totalRevenue": 5920.0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
                     "34133__1774542600__388__1289121": {
                       "showId": "34133__1774542600__388__1289121",
                       "showTime": "2026-03-26T16:30",
@@ -45354,12 +45244,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 183,
-        "totalSeats": 52150,
-        "seatsAvailable": 43936,
-        "seatsSold": 8214,
-        "occupancy": 15.75,
-        "totalRevenue": 1122398.6
+        "totalShows": 182,
+        "totalSeats": 51962,
+        "seatsAvailable": 43763,
+        "seatsSold": 8199,
+        "occupancy": 15.78,
+        "totalRevenue": 1119998.6
       }
     },
     "Sambhavam Adhyam Onnu": {
