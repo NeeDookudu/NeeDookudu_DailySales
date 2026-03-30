@@ -30204,9 +30204,9 @@
                       "showTime": "2026-03-30T18:25",
                       "screen": "SCREEN1",
                       "totalSeats": 606,
-                      "availableSeats": 518,
-                      "soldSeats": 88,
-                      "revenue": 10102.8
+                      "availableSeats": 179,
+                      "soldSeats": 427,
+                      "revenue": 50340.75
                     },
                     "34129__1774853100__30__73164": {
                       "showId": "34129__1774853100__30__73164",
@@ -30230,10 +30230,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1608,
-                    "seatsAvailable": 1394,
-                    "seatsSold": 214,
-                    "occupancy": 13.31,
-                    "totalRevenue": 25846.4
+                    "seatsAvailable": 1055,
+                    "seatsSold": 553,
+                    "occupancy": 34.39,
+                    "totalRevenue": 66084.35
                   }
                 },
                 "1042615": {
@@ -30426,10 +30426,10 @@
               "cityStats": {
                 "totalShows": 36,
                 "totalSeats": 11107,
-                "seatsAvailable": 9345,
-                "seatsSold": 1762,
-                "occupancy": 15.86,
-                "totalRevenue": 245015.61
+                "seatsAvailable": 9006,
+                "seatsSold": 2101,
+                "occupancy": 18.92,
+                "totalRevenue": 285253.56
               }
             },
             "Thiruvallur": {
@@ -33624,10 +33624,10 @@
           "stateStats": {
             "totalShows": 210,
             "totalSeats": 63595,
-            "seatsAvailable": 56449,
-            "seatsSold": 7146,
-            "occupancy": 11.24,
-            "totalRevenue": 875615.61
+            "seatsAvailable": 56110,
+            "seatsSold": 7485,
+            "occupancy": 11.77,
+            "totalRevenue": 915853.56
           }
         },
         "puducherry": {
@@ -33938,10 +33938,10 @@
       "overallStats": {
         "totalShows": 223,
         "totalSeats": 67194,
-        "seatsAvailable": 59144,
-        "seatsSold": 8050,
-        "occupancy": 11.98,
-        "totalRevenue": 1012781.61
+        "seatsAvailable": 58805,
+        "seatsSold": 8389,
+        "occupancy": 12.48,
+        "totalRevenue": 1053019.56
       }
     },
     "Thaai Kizhavi": {
