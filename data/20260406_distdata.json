@@ -38632,56 +38632,47 @@
                       "showTime": "2026-04-06T13:00",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
-                      "availableSeats": 81,
-                      "soldSeats": 131,
-                      "revenue": 20960.0
+                      "availableSeats": 19,
+                      "soldSeats": 193,
+                      "revenue": 30880.0
                     },
                     "34172__1775493000__387__1332506": {
                       "showId": "34172__1775493000__387__1332506",
                       "showTime": "2026-04-06T16:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
-                      "availableSeats": 83,
-                      "soldSeats": 129,
-                      "revenue": 20640.0
-                    },
-                    "34172__1775467800__387__1332504": {
-                      "showId": "34172__1775467800__387__1332504",
-                      "showTime": "2026-04-06T09:30",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 82,
-                      "soldSeats": 130,
-                      "revenue": 20800.0
+                      "availableSeats": 23,
+                      "soldSeats": 189,
+                      "revenue": 30240.0
                     }
                   },
                   "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 636,
-                    "seatsAvailable": 246,
-                    "seatsSold": 390,
-                    "occupancy": 61.32,
-                    "totalRevenue": 62400.0
+                    "totalShows": 2,
+                    "totalSeats": 424,
+                    "seatsAvailable": 42,
+                    "seatsSold": 382,
+                    "occupancy": 90.09,
+                    "totalRevenue": 61120.0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 3,
-                "totalSeats": 636,
-                "seatsAvailable": 246,
-                "seatsSold": 390,
-                "occupancy": 61.32,
-                "totalRevenue": 62400.0
+                "totalShows": 2,
+                "totalSeats": 424,
+                "seatsAvailable": 42,
+                "seatsSold": 382,
+                "occupancy": 90.09,
+                "totalRevenue": 61120.0
               }
             }
           },
           "stateStats": {
-            "totalShows": 3,
-            "totalSeats": 636,
-            "seatsAvailable": 246,
-            "seatsSold": 390,
-            "occupancy": 61.32,
-            "totalRevenue": 62400.0
+            "totalShows": 2,
+            "totalSeats": 424,
+            "seatsAvailable": 42,
+            "seatsSold": 382,
+            "occupancy": 90.09,
+            "totalRevenue": 61120.0
           }
         },
         "andhra-pradesh": {
@@ -38729,70 +38720,15 @@
             "occupancy": 14.36,
             "totalRevenue": 5664.0
           }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34172__1775480400__387__1332505": {
-                      "showId": "34172__1775480400__387__1332505",
-                      "showTime": "2026-04-06T13:00",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 19,
-                      "soldSeats": 193,
-                      "revenue": 30880.0
-                    },
-                    "34172__1775493000__387__1332506": {
-                      "showId": "34172__1775493000__387__1332506",
-                      "showTime": "2026-04-06T16:30",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 23,
-                      "soldSeats": 189,
-                      "revenue": 30240.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 424,
-                    "seatsAvailable": 42,
-                    "seatsSold": 382,
-                    "occupancy": 90.09,
-                    "totalRevenue": 61120.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 424,
-                "seatsAvailable": 42,
-                "seatsSold": 382,
-                "occupancy": 90.09,
-                "totalRevenue": 61120.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 2,
-            "totalSeats": 424,
-            "seatsAvailable": 42,
-            "seatsSold": 382,
-            "occupancy": 90.09,
-            "totalRevenue": 61120.0
-          }
         }
       },
       "overallStats": {
-        "totalShows": 241,
-        "totalSeats": 65021,
-        "seatsAvailable": 25754,
-        "seatsSold": 39267,
+        "totalShows": 240,
+        "totalSeats": 64809,
+        "seatsAvailable": 25672,
+        "seatsSold": 39137,
         "occupancy": 60.39,
-        "totalRevenue": 5582348.27
+        "totalRevenue": 5561548.27
       }
     },
     "Happy Raj": {
@@ -42536,61 +42472,6 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34133__1775466900__388__1332508": {
-                      "showId": "34133__1775466900__388__1332508",
-                      "showTime": "2026-04-06T09:15",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 188,
-                      "soldSeats": 0,
-                      "revenue": 0.0
-                    },
-                    "34133__1775492100__388__1332510": {
-                      "showId": "34133__1775492100__388__1332510",
-                      "showTime": "2026-04-06T16:15",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 185,
-                      "soldSeats": 3,
-                      "revenue": 480.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 376,
-                    "seatsAvailable": 373,
-                    "seatsSold": 3,
-                    "occupancy": 0.8,
-                    "totalRevenue": 480.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 376,
-                "seatsAvailable": 373,
-                "seatsSold": 3,
-                "occupancy": 0.8,
-                "totalRevenue": 480.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 2,
-            "totalSeats": 376,
-            "seatsAvailable": 373,
-            "seatsSold": 3,
-            "occupancy": 0.8,
-            "totalRevenue": 480.0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
                     "34133__1775492100__388__1332510": {
                       "showId": "34133__1775492100__388__1332510",
                       "showTime": "2026-04-06T16:15",
@@ -42632,11 +42513,11 @@
         }
       },
       "overallStats": {
-        "totalShows": 85,
-        "totalSeats": 16770,
-        "seatsAvailable": 15314,
+        "totalShows": 84,
+        "totalSeats": 16582,
+        "seatsAvailable": 15126,
         "seatsSold": 1456,
-        "occupancy": 8.68,
+        "occupancy": 8.78,
         "totalRevenue": 208883.4
       }
     },
@@ -44537,52 +44418,6 @@
             "seatsSold": 320,
             "occupancy": 7.92,
             "totalRevenue": 43650.7
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34136__1775479500__388__1332509": {
-                      "showId": "34136__1775479500__388__1332509",
-                      "showTime": "2026-04-06T12:45",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 188,
-                      "soldSeats": 0,
-                      "revenue": 0.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 188,
-                    "seatsAvailable": 188,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 188,
-                "seatsAvailable": 188,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 188,
-            "seatsAvailable": 188,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
           }
         },
         "null": {
