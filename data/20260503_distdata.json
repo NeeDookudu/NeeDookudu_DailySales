@@ -45001,9 +45001,9 @@
                       "showTime": "2026-05-04T10:30",
                       "screen": "M K THEATRE",
                       "totalSeats": 281,
-                      "availableSeats": 196,
-                      "soldSeats": 85,
-                      "revenue": 22650.0
+                      "availableSeats": 192,
+                      "soldSeats": 89,
+                      "revenue": 23650.0
                     },
                     "34305__1777876200__4275__8217": {
                       "showId": "34305__1777876200__4275__8217",
@@ -45027,10 +45027,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 1405,
-                    "seatsAvailable": 656,
-                    "seatsSold": 749,
-                    "occupancy": 53.31,
-                    "totalRevenue": 192950.0
+                    "seatsAvailable": 652,
+                    "seatsSold": 753,
+                    "occupancy": 53.59,
+                    "totalRevenue": 193950.0
                   }
                 },
                 "1021629": {
@@ -45113,10 +45113,10 @@
               "cityStats": {
                 "totalShows": 12,
                 "totalSeats": 1839,
-                "seatsAvailable": 940,
-                "seatsSold": 899,
-                "occupancy": 48.89,
-                "totalRevenue": 237850.0
+                "seatsAvailable": 936,
+                "seatsSold": 903,
+                "occupancy": 49.1,
+                "totalRevenue": 238850.0
               }
             },
             "Loni": {
@@ -45269,10 +45269,10 @@
           "stateStats": {
             "totalShows": 63,
             "totalSeats": 9345,
-            "seatsAvailable": 6136,
-            "seatsSold": 3209,
-            "occupancy": 34.34,
-            "totalRevenue": 739680.0
+            "seatsAvailable": 6132,
+            "seatsSold": 3213,
+            "occupancy": 34.38,
+            "totalRevenue": 740680.0
           }
         },
         "bihar": {
@@ -46948,9 +46948,9 @@
                       "showTime": "2026-05-04T10:25",
                       "screen": "EUROPA 1",
                       "totalSeats": 262,
-                      "availableSeats": 249,
-                      "soldSeats": 13,
-                      "revenue": 2150.0
+                      "availableSeats": 251,
+                      "soldSeats": 11,
+                      "revenue": 1870.0
                     },
                     "16492": {
                       "showId": "16492",
@@ -46974,20 +46974,20 @@
                   "stats": {
                     "totalShows": 9,
                     "totalSeats": 2358,
-                    "seatsAvailable": 2272,
-                    "seatsSold": 86,
-                    "occupancy": 3.65,
-                    "totalRevenue": 15790.0
+                    "seatsAvailable": 2274,
+                    "seatsSold": 84,
+                    "occupancy": 3.56,
+                    "totalRevenue": 15510.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 9,
                 "totalSeats": 2358,
-                "seatsAvailable": 2272,
-                "seatsSold": 86,
-                "occupancy": 3.65,
-                "totalRevenue": 15790.0
+                "seatsAvailable": 2274,
+                "seatsSold": 84,
+                "occupancy": 3.56,
+                "totalRevenue": 15510.0
               }
             },
             "Rath": {
@@ -47073,10 +47073,10 @@
           "stateStats": {
             "totalShows": 15,
             "totalSeats": 3374,
-            "seatsAvailable": 3229,
-            "seatsSold": 145,
-            "occupancy": 4.3,
-            "totalRevenue": 28190.0
+            "seatsAvailable": 3231,
+            "seatsSold": 143,
+            "occupancy": 4.24,
+            "totalRevenue": 27910.0
           }
         },
         "jharkhand": {
@@ -47777,10 +47777,10 @@
       "overallStats": {
         "totalShows": 254,
         "totalSeats": 47120,
-        "seatsAvailable": 39446,
-        "seatsSold": 7674,
+        "seatsAvailable": 39444,
+        "seatsSold": 7676,
         "occupancy": 16.29,
-        "totalRevenue": 1631465.0
+        "totalRevenue": 1632185.0
       }
     },
     "Ek Din": {
