@@ -46948,9 +46948,9 @@
                       "showTime": "2026-05-04T10:25",
                       "screen": "EUROPA 1",
                       "totalSeats": 262,
-                      "availableSeats": 251,
-                      "soldSeats": 11,
-                      "revenue": 1870.0
+                      "availableSeats": 249,
+                      "soldSeats": 13,
+                      "revenue": 2150.0
                     },
                     "16492": {
                       "showId": "16492",
@@ -46974,20 +46974,20 @@
                   "stats": {
                     "totalShows": 9,
                     "totalSeats": 2358,
-                    "seatsAvailable": 2274,
-                    "seatsSold": 84,
-                    "occupancy": 3.56,
-                    "totalRevenue": 15510.0
+                    "seatsAvailable": 2272,
+                    "seatsSold": 86,
+                    "occupancy": 3.65,
+                    "totalRevenue": 15790.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 9,
                 "totalSeats": 2358,
-                "seatsAvailable": 2274,
-                "seatsSold": 84,
-                "occupancy": 3.56,
-                "totalRevenue": 15510.0
+                "seatsAvailable": 2272,
+                "seatsSold": 86,
+                "occupancy": 3.65,
+                "totalRevenue": 15790.0
               }
             },
             "Rath": {
@@ -47073,10 +47073,10 @@
           "stateStats": {
             "totalShows": 15,
             "totalSeats": 3374,
-            "seatsAvailable": 3231,
-            "seatsSold": 143,
-            "occupancy": 4.24,
-            "totalRevenue": 27910.0
+            "seatsAvailable": 3229,
+            "seatsSold": 145,
+            "occupancy": 4.3,
+            "totalRevenue": 28190.0
           }
         },
         "jharkhand": {
@@ -47777,10 +47777,10 @@
       "overallStats": {
         "totalShows": 254,
         "totalSeats": 47120,
-        "seatsAvailable": 39448,
-        "seatsSold": 7672,
-        "occupancy": 16.28,
-        "totalRevenue": 1631185.0
+        "seatsAvailable": 39446,
+        "seatsSold": 7674,
+        "occupancy": 16.29,
+        "totalRevenue": 1631465.0
       }
     },
     "Ek Din": {
@@ -62700,9 +62700,9 @@
                       "showTime": "2026-05-04T04:40",
                       "screen": "EUROPA 2",
                       "totalSeats": 197,
-                      "availableSeats": 197,
-                      "soldSeats": 0,
-                      "revenue": 0.0
+                      "availableSeats": 193,
+                      "soldSeats": 4,
+                      "revenue": 520.0
                     },
                     "16481": {
                       "showId": "16481",
@@ -62726,20 +62726,20 @@
                   "stats": {
                     "totalShows": 16,
                     "totalSeats": 2277,
-                    "seatsAvailable": 2002,
-                    "seatsSold": 275,
-                    "occupancy": 12.08,
-                    "totalRevenue": 69840.0
+                    "seatsAvailable": 1998,
+                    "seatsSold": 279,
+                    "occupancy": 12.25,
+                    "totalRevenue": 70360.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 16,
                 "totalSeats": 2277,
-                "seatsAvailable": 2002,
-                "seatsSold": 275,
-                "occupancy": 12.08,
-                "totalRevenue": 69840.0
+                "seatsAvailable": 1998,
+                "seatsSold": 279,
+                "occupancy": 12.25,
+                "totalRevenue": 70360.0
               }
             },
             "Rath": {
@@ -62807,10 +62807,10 @@
           "stateStats": {
             "totalShows": 20,
             "totalSeats": 2963,
-            "seatsAvailable": 2649,
-            "seatsSold": 314,
-            "occupancy": 10.6,
-            "totalRevenue": 77640.0
+            "seatsAvailable": 2645,
+            "seatsSold": 318,
+            "occupancy": 10.73,
+            "totalRevenue": 78160.0
           }
         },
         "haryana": {
@@ -63769,10 +63769,10 @@
       "overallStats": {
         "totalShows": 172,
         "totalSeats": 28695,
-        "seatsAvailable": 24031,
-        "seatsSold": 4664,
-        "occupancy": 16.25,
-        "totalRevenue": 1057240.0
+        "seatsAvailable": 24027,
+        "seatsSold": 4668,
+        "occupancy": 16.27,
+        "totalRevenue": 1057760.0
       }
     },
     "Dhabkaaro": {
@@ -64934,48 +64934,48 @@
                       "showTime": "2026-05-04T08:30",
                       "screen": "SCREEN3",
                       "totalSeats": 201,
-                      "availableSeats": 178,
-                      "soldSeats": 23,
-                      "revenue": 3580.0
+                      "availableSeats": 176,
+                      "soldSeats": 25,
+                      "revenue": 3900.0
                     }
                   },
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1206,
-                    "seatsAvailable": 554,
-                    "seatsSold": 652,
-                    "occupancy": 54.06,
-                    "totalRevenue": 101570.0
+                    "seatsAvailable": 552,
+                    "seatsSold": 654,
+                    "occupancy": 54.23,
+                    "totalRevenue": 101890.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1206,
-                "seatsAvailable": 554,
-                "seatsSold": 652,
-                "occupancy": 54.06,
-                "totalRevenue": 101570.0
+                "seatsAvailable": 552,
+                "seatsSold": 654,
+                "occupancy": 54.23,
+                "totalRevenue": 101890.0
               }
             }
           },
           "stateStats": {
             "totalShows": 6,
             "totalSeats": 1206,
-            "seatsAvailable": 554,
-            "seatsSold": 652,
-            "occupancy": 54.06,
-            "totalRevenue": 101570.0
+            "seatsAvailable": 552,
+            "seatsSold": 654,
+            "occupancy": 54.23,
+            "totalRevenue": 101890.0
           }
         }
       },
       "overallStats": {
         "totalShows": 12,
         "totalSeats": 1475,
-        "seatsAvailable": 691,
-        "seatsSold": 784,
-        "occupancy": 53.15,
-        "totalRevenue": 126020.0
+        "seatsAvailable": 689,
+        "seatsSold": 786,
+        "occupancy": 53.29,
+        "totalRevenue": 126340.0
       }
     },
     "KD": {
