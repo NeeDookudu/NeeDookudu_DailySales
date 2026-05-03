@@ -30,7 +30,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install playwright requests cryptography
+        run: pip install playwright requests cryptography curl_cffi
 
       - name: Install Chromium
         run: playwright install chromium --with-deps
