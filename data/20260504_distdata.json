@@ -59333,25 +59333,61 @@
                       "availableSeats": 329,
                       "soldSeats": 2,
                       "revenue": 200.0
+                    },
+                    "34273__1777986000__5506__7266": {
+                      "showId": "34273__1777986000__5506__7266",
+                      "showTime": "2026-05-05T13:00",
+                      "screen": "RIMI",
+                      "totalSeats": 331,
+                      "availableSeats": 329,
+                      "soldSeats": 2,
+                      "revenue": 200.0
+                    },
+                    "34273__1777973400__5506__7265": {
+                      "showId": "34273__1777973400__5506__7265",
+                      "showTime": "2026-05-05T09:30",
+                      "screen": "RIMI",
+                      "totalSeats": 331,
+                      "availableSeats": 329,
+                      "soldSeats": 2,
+                      "revenue": 200.0
+                    },
+                    "34273__1777960800__5506__7264": {
+                      "showId": "34273__1777960800__5506__7264",
+                      "showTime": "2026-05-05T06:00",
+                      "screen": "RIMI",
+                      "totalSeats": 331,
+                      "availableSeats": 329,
+                      "soldSeats": 2,
+                      "revenue": 200.0
+                    },
+                    "34273__1777998600__5506__7267": {
+                      "showId": "34273__1777998600__5506__7267",
+                      "showTime": "2026-05-05T16:30",
+                      "screen": "RIMI",
+                      "totalSeats": 331,
+                      "availableSeats": 329,
+                      "soldSeats": 2,
+                      "revenue": 200.0
                     }
                   },
                   "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1324,
-                    "seatsAvailable": 1315,
-                    "seatsSold": 9,
-                    "occupancy": 0.68,
-                    "totalRevenue": 900.0
+                    "totalShows": 8,
+                    "totalSeats": 2648,
+                    "seatsAvailable": 2631,
+                    "seatsSold": 17,
+                    "occupancy": 0.64,
+                    "totalRevenue": 1700.0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1324,
-                "seatsAvailable": 1315,
-                "seatsSold": 9,
-                "occupancy": 0.68,
-                "totalRevenue": 900.0
+                "totalShows": 8,
+                "totalSeats": 2648,
+                "seatsAvailable": 2631,
+                "seatsSold": 17,
+                "occupancy": 0.64,
+                "totalRevenue": 1700.0
               }
             },
             "Valanchery": {
@@ -59417,12 +59453,12 @@
             }
           },
           "stateStats": {
-            "totalShows": 381,
-            "totalSeats": 112602,
-            "seatsAvailable": 100894,
-            "seatsSold": 11708,
-            "occupancy": 10.4,
-            "totalRevenue": 1630609.9
+            "totalShows": 385,
+            "totalSeats": 113926,
+            "seatsAvailable": 102210,
+            "seatsSold": 11716,
+            "occupancy": 10.28,
+            "totalRevenue": 1631409.9
           }
         },
         "andaman-and-nicobar-islands": {
@@ -59768,12 +59804,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 615,
-        "totalSeats": 164519,
-        "seatsAvailable": 147302,
-        "seatsSold": 17217,
-        "occupancy": 10.47,
-        "totalRevenue": 2493551.16
+        "totalShows": 619,
+        "totalSeats": 165843,
+        "seatsAvailable": 148618,
+        "seatsSold": 17225,
+        "occupancy": 10.39,
+        "totalRevenue": 2494351.16
       }
     },
     "Mr. X": {
@@ -71066,18 +71102,18 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34206__1777995000__388__1443254": {
-                      "showId": "34206__1777995000__388__1443254",
-                      "showTime": "2026-05-05T15:30",
+                    "34206__1777973400__388__1443252": {
+                      "showId": "34206__1777973400__388__1443252",
+                      "showTime": "2026-05-05T09:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
                       "availableSeats": 188,
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34206__1777973400__388__1443252": {
-                      "showId": "34206__1777973400__388__1443252",
-                      "showTime": "2026-05-05T09:30",
+                    "34206__1777995000__388__1443254": {
+                      "showId": "34206__1777995000__388__1443254",
+                      "showTime": "2026-05-05T15:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
                       "availableSeats": 188,
@@ -71121,18 +71157,18 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34206__1777973400__388__1443252": {
-                      "showId": "34206__1777973400__388__1443252",
-                      "showTime": "2026-05-05T09:30",
+                    "34206__1777995000__388__1443254": {
+                      "showId": "34206__1777995000__388__1443254",
+                      "showTime": "2026-05-05T15:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
                       "availableSeats": 188,
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34206__1777995000__388__1443254": {
-                      "showId": "34206__1777995000__388__1443254",
-                      "showTime": "2026-05-05T15:30",
+                    "34206__1777973400__388__1443252": {
+                      "showId": "34206__1777973400__388__1443252",
+                      "showTime": "2026-05-05T09:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
                       "availableSeats": 188,
