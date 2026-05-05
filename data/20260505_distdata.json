@@ -56784,9 +56784,9 @@
                       "showTime": "2026-05-06T10:00",
                       "screen": "SCREEN 1",
                       "totalSeats": 151,
-                      "availableSeats": 124,
-                      "soldSeats": 27,
-                      "revenue": 2700.0
+                      "availableSeats": 122,
+                      "soldSeats": 29,
+                      "revenue": 2900.0
                     },
                     "34273__1778085000__2055__61940": {
                       "showId": "34273__1778085000__2055__61940",
@@ -56819,20 +56819,20 @@
                   "stats": {
                     "totalShows": 15,
                     "totalSeats": 3132,
-                    "seatsAvailable": 2323,
-                    "seatsSold": 809,
-                    "occupancy": 25.83,
-                    "totalRevenue": 80900.0
+                    "seatsAvailable": 2321,
+                    "seatsSold": 811,
+                    "occupancy": 25.89,
+                    "totalRevenue": 81100.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 28,
                 "totalSeats": 5554,
-                "seatsAvailable": 4669,
-                "seatsSold": 885,
-                "occupancy": 15.93,
-                "totalRevenue": 88600.0
+                "seatsAvailable": 4667,
+                "seatsSold": 887,
+                "occupancy": 15.97,
+                "totalRevenue": 88800.0
               }
             },
             "Ponnani": {
@@ -57418,10 +57418,10 @@
           "stateStats": {
             "totalShows": 363,
             "totalSeats": 108765,
-            "seatsAvailable": 98691,
-            "seatsSold": 10074,
+            "seatsAvailable": 98689,
+            "seatsSold": 10076,
             "occupancy": 9.26,
-            "totalRevenue": 1398982.3
+            "totalRevenue": 1399182.3
           }
         },
         "andaman-and-nicobar-islands": {
@@ -57769,10 +57769,10 @@
       "overallStats": {
         "totalShows": 571,
         "totalSeats": 154489,
-        "seatsAvailable": 139606,
-        "seatsSold": 14883,
+        "seatsAvailable": 139604,
+        "seatsSold": 14885,
         "occupancy": 9.63,
-        "totalRevenue": 2154454.28
+        "totalRevenue": 2154654.28
       }
     },
     "Mr. X": {
