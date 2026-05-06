@@ -54002,9 +54002,9 @@
                       "showTime": "2026-05-07T13:00",
                       "screen": "SCREEN 3",
                       "totalSeats": 230,
-                      "availableSeats": 189,
-                      "soldSeats": 41,
-                      "revenue": 4100.0
+                      "availableSeats": 188,
+                      "soldSeats": 42,
+                      "revenue": 4200.0
                     },
                     "34273__1778148000__2053__61974": {
                       "showId": "34273__1778148000__2053__61974",
@@ -54019,20 +54019,20 @@
                   "stats": {
                     "totalShows": 13,
                     "totalSeats": 2704,
-                    "seatsAvailable": 2014,
-                    "seatsSold": 690,
-                    "occupancy": 25.52,
-                    "totalRevenue": 69000.0
+                    "seatsAvailable": 2013,
+                    "seatsSold": 691,
+                    "occupancy": 25.55,
+                    "totalRevenue": 69100.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 23,
                 "totalSeats": 4604,
-                "seatsAvailable": 3868,
-                "seatsSold": 736,
-                "occupancy": 15.99,
-                "totalRevenue": 74100.0
+                "seatsAvailable": 3867,
+                "seatsSold": 737,
+                "occupancy": 16.01,
+                "totalRevenue": 74200.0
               }
             },
             "Perambra": {
@@ -54706,10 +54706,10 @@
           "stateStats": {
             "totalShows": 346,
             "totalSeats": 105200,
-            "seatsAvailable": 95814,
-            "seatsSold": 9386,
+            "seatsAvailable": 95813,
+            "seatsSold": 9387,
             "occupancy": 8.92,
-            "totalRevenue": 1310203.92
+            "totalRevenue": 1310303.92
           }
         },
         "andaman-and-nicobar-islands": {
@@ -54859,18 +54859,18 @@
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34273__1778130000__387__1451536": {
-                      "showId": "34273__1778130000__387__1451536",
-                      "showTime": "2026-05-07T05:00",
+                    "34273__1778171400__387__1451539": {
+                      "showId": "34273__1778171400__387__1451539",
+                      "showTime": "2026-05-07T16:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
                       "availableSeats": 212,
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34273__1778171400__387__1451539": {
-                      "showId": "34273__1778171400__387__1451539",
-                      "showTime": "2026-05-07T16:30",
+                    "34273__1778130000__387__1451536": {
+                      "showId": "34273__1778130000__387__1451536",
+                      "showTime": "2026-05-07T05:00",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
                       "availableSeats": 212,
@@ -55057,10 +55057,10 @@
       "overallStats": {
         "totalShows": 521,
         "totalSeats": 144956,
-        "seatsAvailable": 131309,
-        "seatsSold": 13647,
-        "occupancy": 9.41,
-        "totalRevenue": 1982719.68
+        "seatsAvailable": 131308,
+        "seatsSold": 13648,
+        "occupancy": 9.42,
+        "totalRevenue": 1982819.68
       }
     },
     "The Devil Wears Prada 2": {
@@ -56700,9 +56700,9 @@
                       "showTime": "2026-05-07T12:30",
                       "screen": "SCREEN2",
                       "totalSeats": 230,
-                      "availableSeats": 211,
-                      "soldSeats": 19,
-                      "revenue": 3380.0
+                      "availableSeats": 209,
+                      "soldSeats": 21,
+                      "revenue": 3720.0
                     },
                     "34305__1778144400__2979__18852": {
                       "showId": "34305__1778144400__2979__18852",
@@ -56717,10 +56717,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1380,
-                    "seatsAvailable": 1053,
-                    "seatsSold": 327,
-                    "occupancy": 23.7,
-                    "totalRevenue": 57940.0
+                    "seatsAvailable": 1051,
+                    "seatsSold": 329,
+                    "occupancy": 23.84,
+                    "totalRevenue": 58280.0
                   }
                 },
                 "33645": {
@@ -56812,10 +56812,10 @@
               "cityStats": {
                 "totalShows": 14,
                 "totalSeats": 1564,
-                "seatsAvailable": 1371,
-                "seatsSold": 193,
-                "occupancy": 12.34,
-                "totalRevenue": 17740.0
+                "seatsAvailable": 1369,
+                "seatsSold": 195,
+                "occupancy": 12.47,
+                "totalRevenue": 18080.0
               }
             },
             "Badlapur": {
@@ -56991,10 +56991,10 @@
           "stateStats": {
             "totalShows": 72,
             "totalSeats": 10650,
-            "seatsAvailable": 9593,
-            "seatsSold": 1057,
-            "occupancy": 9.92,
-            "totalRevenue": 233340.0
+            "seatsAvailable": 9591,
+            "seatsSold": 1059,
+            "occupancy": 9.94,
+            "totalRevenue": 233680.0
           }
         },
         "bihar": {
@@ -59491,10 +59491,10 @@
       "overallStats": {
         "totalShows": 252,
         "totalSeats": 45129,
-        "seatsAvailable": 39808,
-        "seatsSold": 5321,
-        "occupancy": 11.79,
-        "totalRevenue": 1054706.0
+        "seatsAvailable": 39806,
+        "seatsSold": 5323,
+        "occupancy": 11.8,
+        "totalRevenue": 1055046.0
       }
     },
     "Bhooth Bangla": {
@@ -67657,18 +67657,18 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34206__1778146200__388__1451540": {
-                      "showId": "34206__1778146200__388__1451540",
-                      "showTime": "2026-05-07T09:30",
+                    "34206__1778167800__388__1451542": {
+                      "showId": "34206__1778167800__388__1451542",
+                      "showTime": "2026-05-07T15:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
                       "availableSeats": 188,
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34206__1778167800__388__1451542": {
-                      "showId": "34206__1778167800__388__1451542",
-                      "showTime": "2026-05-07T15:30",
+                    "34206__1778146200__388__1451540": {
+                      "showId": "34206__1778146200__388__1451540",
+                      "showTime": "2026-05-07T09:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
                       "availableSeats": 188,
@@ -71072,48 +71072,48 @@
                       "showTime": "2026-05-07T06:15",
                       "screen": "LITTLE ROSE 2K",
                       "totalSeats": 230,
-                      "availableSeats": 196,
-                      "soldSeats": 34,
-                      "revenue": 4413.2
+                      "availableSeats": 194,
+                      "soldSeats": 36,
+                      "revenue": 4672.8
                     }
                   },
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1380,
-                    "seatsAvailable": 1170,
-                    "seatsSold": 210,
-                    "occupancy": 15.22,
-                    "totalRevenue": 27258.0
+                    "seatsAvailable": 1168,
+                    "seatsSold": 212,
+                    "occupancy": 15.36,
+                    "totalRevenue": 27517.6
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1380,
-                "seatsAvailable": 1170,
-                "seatsSold": 210,
-                "occupancy": 15.22,
-                "totalRevenue": 27258.0
+                "seatsAvailable": 1168,
+                "seatsSold": 212,
+                "occupancy": 15.36,
+                "totalRevenue": 27517.6
               }
             }
           },
           "stateStats": {
             "totalShows": 48,
             "totalSeats": 13296,
-            "seatsAvailable": 11415,
-            "seatsSold": 1881,
-            "occupancy": 14.15,
-            "totalRevenue": 253297.28
+            "seatsAvailable": 11413,
+            "seatsSold": 1883,
+            "occupancy": 14.16,
+            "totalRevenue": 253556.88
           }
         }
       },
       "overallStats": {
         "totalShows": 48,
         "totalSeats": 13296,
-        "seatsAvailable": 11415,
-        "seatsSold": 1881,
-        "occupancy": 14.15,
-        "totalRevenue": 253297.28
+        "seatsAvailable": 11413,
+        "seatsSold": 1883,
+        "occupancy": 14.16,
+        "totalRevenue": 253556.88
       }
     },
     "Pallichattambi": {
