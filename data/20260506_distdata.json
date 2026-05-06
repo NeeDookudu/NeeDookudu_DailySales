@@ -55121,38 +55121,38 @@
                       "showTime": "2026-05-07T14:05",
                       "screen": "SCREEN 3",
                       "totalSeats": 350,
-                      "availableSeats": 200,
-                      "soldSeats": 150,
-                      "revenue": 27750.0
+                      "availableSeats": 198,
+                      "soldSeats": 152,
+                      "revenue": 28120.0
                     }
                   },
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 700,
-                    "seatsAvailable": 398,
-                    "seatsSold": 302,
-                    "occupancy": 43.14,
-                    "totalRevenue": 55870.0
+                    "seatsAvailable": 396,
+                    "seatsSold": 304,
+                    "occupancy": 43.43,
+                    "totalRevenue": 56240.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1148,
-                "seatsAvailable": 790,
-                "seatsSold": 358,
-                "occupancy": 31.18,
-                "totalRevenue": 64270.0
+                "seatsAvailable": 788,
+                "seatsSold": 360,
+                "occupancy": 31.36,
+                "totalRevenue": 64640.0
               }
             }
           },
           "stateStats": {
             "totalShows": 4,
             "totalSeats": 1148,
-            "seatsAvailable": 790,
-            "seatsSold": 358,
-            "occupancy": 31.18,
-            "totalRevenue": 64270.0
+            "seatsAvailable": 788,
+            "seatsSold": 360,
+            "occupancy": 31.36,
+            "totalRevenue": 64640.0
           }
         },
         "karnataka": {
@@ -55474,10 +55474,10 @@
       "overallStats": {
         "totalShows": 28,
         "totalSeats": 2678,
-        "seatsAvailable": 2162,
-        "seatsSold": 516,
-        "occupancy": 19.27,
-        "totalRevenue": 90668.0
+        "seatsAvailable": 2160,
+        "seatsSold": 518,
+        "occupancy": 19.34,
+        "totalRevenue": 91038.0
       }
     },
     "Dhurandhar The Revenge": {
