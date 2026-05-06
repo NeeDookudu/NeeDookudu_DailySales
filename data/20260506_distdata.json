@@ -11178,38 +11178,38 @@
                       "showTime": "2026-05-07T06:20",
                       "screen": "VIMAL 70MM",
                       "totalSeats": 845,
-                      "availableSeats": 827,
-                      "soldSeats": 18,
-                      "revenue": 2785.0
+                      "availableSeats": 822,
+                      "soldSeats": 23,
+                      "revenue": 3435.0
                     }
                   },
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 5070,
-                    "seatsAvailable": 4933,
-                    "seatsSold": 137,
-                    "occupancy": 2.7,
-                    "totalRevenue": 18845.0
+                    "seatsAvailable": 4928,
+                    "seatsSold": 142,
+                    "occupancy": 2.8,
+                    "totalRevenue": 19495.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 5070,
-                "seatsAvailable": 4933,
-                "seatsSold": 137,
-                "occupancy": 2.7,
-                "totalRevenue": 18845.0
+                "seatsAvailable": 4928,
+                "seatsSold": 142,
+                "occupancy": 2.8,
+                "totalRevenue": 19495.0
               }
             }
           },
           "stateStats": {
             "totalShows": 6,
             "totalSeats": 5070,
-            "seatsAvailable": 4933,
-            "seatsSold": 137,
-            "occupancy": 2.7,
-            "totalRevenue": 18845.0
+            "seatsAvailable": 4928,
+            "seatsSold": 142,
+            "occupancy": 2.8,
+            "totalRevenue": 19495.0
           }
         },
         "karnataka": {
@@ -11307,10 +11307,10 @@
       "overallStats": {
         "totalShows": 499,
         "totalSeats": 225140,
-        "seatsAvailable": 191029,
-        "seatsSold": 34111,
+        "seatsAvailable": 191024,
+        "seatsSold": 34116,
         "occupancy": 15.15,
-        "totalRevenue": 3857909.0
+        "totalRevenue": 3858559.0
       }
     },
     "Vaazha II: Biopic of a Billion Bros": {
@@ -13332,9 +13332,9 @@
                       "showTime": "2026-05-07T15:45",
                       "screen": "ANNAS 2K",
                       "totalSeats": 300,
-                      "availableSeats": 274,
-                      "soldSeats": 26,
-                      "revenue": 3374.8
+                      "availableSeats": 273,
+                      "soldSeats": 27,
+                      "revenue": 3504.6
                     },
                     "34172__1778130900__4274__18880": {
                       "showId": "34172__1778130900__4274__18880",
@@ -13367,20 +13367,20 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 2400,
-                    "seatsAvailable": 2153,
-                    "seatsSold": 247,
-                    "occupancy": 10.29,
-                    "totalRevenue": 32060.6
+                    "seatsAvailable": 2152,
+                    "seatsSold": 248,
+                    "occupancy": 10.33,
+                    "totalRevenue": 32190.4
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 8,
                 "totalSeats": 2400,
-                "seatsAvailable": 2153,
-                "seatsSold": 247,
-                "occupancy": 10.29,
-                "totalRevenue": 32060.6
+                "seatsAvailable": 2152,
+                "seatsSold": 248,
+                "occupancy": 10.33,
+                "totalRevenue": 32190.4
               }
             },
             "Alappuzha": {
@@ -15025,10 +15025,10 @@
           "stateStats": {
             "totalShows": 119,
             "totalSeats": 23056,
-            "seatsAvailable": 21702,
-            "seatsSold": 1354,
-            "occupancy": 5.87,
-            "totalRevenue": 194020.0
+            "seatsAvailable": 21701,
+            "seatsSold": 1355,
+            "occupancy": 5.88,
+            "totalRevenue": 194149.8
           }
         },
         "null": {
@@ -15038,43 +15038,43 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34172__1778070600__388__1445819": {
-                      "showId": "34172__1778070600__388__1445819",
-                      "showTime": "2026-05-06T12:30",
+                    "34172__1778157000__388__1451541": {
+                      "showId": "34172__1778157000__388__1451541",
+                      "showTime": "2026-05-07T12:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 188,
-                      "availableSeats": 185,
-                      "soldSeats": 3,
-                      "revenue": 480.0
+                      "availableSeats": 188,
+                      "soldSeats": 0,
+                      "revenue": 0.0
                     }
                   },
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 188,
-                    "seatsAvailable": 185,
-                    "seatsSold": 3,
-                    "occupancy": 1.6,
-                    "totalRevenue": 480.0
+                    "seatsAvailable": 188,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 188,
-                "seatsAvailable": 185,
-                "seatsSold": 3,
-                "occupancy": 1.6,
-                "totalRevenue": 480.0
+                "seatsAvailable": 188,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
               }
             }
           },
           "stateStats": {
             "totalShows": 1,
             "totalSeats": 188,
-            "seatsAvailable": 185,
-            "seatsSold": 3,
-            "occupancy": 1.6,
-            "totalRevenue": 480.0
+            "seatsAvailable": 188,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
           }
         },
         "null": {
@@ -15125,12 +15125,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 274,
-        "totalSeats": 75577,
-        "seatsAvailable": 67200,
-        "seatsSold": 8377,
-        "occupancy": 11.08,
-        "totalRevenue": 1040686.0
+        "totalShows": 273,
+        "totalSeats": 75389,
+        "seatsAvailable": 67014,
+        "seatsSold": 8375,
+        "occupancy": 11.11,
+        "totalRevenue": 1040335.8
       }
     },
     "Raakaasa": {
@@ -25572,9 +25572,9 @@
                       "showTime": "2026-05-07T07:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 294,
-                      "availableSeats": 242,
-                      "soldSeats": 52,
-                      "revenue": 8120.0
+                      "availableSeats": 240,
+                      "soldSeats": 54,
+                      "revenue": 8500.0
                     },
                     "34298__1778172300__4__2687": {
                       "showId": "34298__1778172300__4__2687",
@@ -25589,10 +25589,10 @@
                   "stats": {
                     "totalShows": 15,
                     "totalSeats": 4738,
-                    "seatsAvailable": 3862,
-                    "seatsSold": 876,
-                    "occupancy": 18.49,
-                    "totalRevenue": 154000.0
+                    "seatsAvailable": 3860,
+                    "seatsSold": 878,
+                    "occupancy": 18.53,
+                    "totalRevenue": 154380.0
                   }
                 },
                 "3943": {
@@ -27783,10 +27783,10 @@
               "cityStats": {
                 "totalShows": 232,
                 "totalSeats": 123028,
-                "seatsAvailable": 102465,
-                "seatsSold": 20563,
-                "occupancy": 16.71,
-                "totalRevenue": 2716670.08
+                "seatsAvailable": 102463,
+                "seatsSold": 20565,
+                "occupancy": 16.72,
+                "totalRevenue": 2717050.08
               }
             },
             "Thiruvallur": {
@@ -36931,9 +36931,9 @@
                       "showTime": "2026-05-07T05:50",
                       "screen": "EPIQ 2",
                       "totalSeats": 318,
-                      "availableSeats": 299,
-                      "soldSeats": 19,
-                      "revenue": 3800.0
+                      "availableSeats": 298,
+                      "soldSeats": 20,
+                      "revenue": 4000.0
                     },
                     "34298__1778145300__2__5787": {
                       "showId": "34298__1778145300__2__5787",
@@ -36966,10 +36966,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 2586,
-                    "seatsAvailable": 2307,
-                    "seatsSold": 279,
-                    "occupancy": 10.79,
-                    "totalRevenue": 56300.0
+                    "seatsAvailable": 2306,
+                    "seatsSold": 280,
+                    "occupancy": 10.83,
+                    "totalRevenue": 56500.0
                   }
                 },
                 "5145": {
@@ -37061,10 +37061,10 @@
               "cityStats": {
                 "totalShows": 16,
                 "totalSeats": 7522,
-                "seatsAvailable": 7229,
-                "seatsSold": 293,
-                "occupancy": 3.9,
-                "totalRevenue": 58400.0
+                "seatsAvailable": 7228,
+                "seatsSold": 294,
+                "occupancy": 3.91,
+                "totalRevenue": 58600.0
               }
             },
             "Thiruvannamalai": {
@@ -40243,10 +40243,10 @@
           "stateStats": {
             "totalShows": 1328,
             "totalSeats": 575424,
-            "seatsAvailable": 513360,
-            "seatsSold": 62064,
+            "seatsAvailable": 513357,
+            "seatsSold": 62067,
             "occupancy": 10.79,
-            "totalRevenue": 8333345.08
+            "totalRevenue": 8333925.08
           }
         },
         "telangana": {
@@ -43763,10 +43763,10 @@
       "overallStats": {
         "totalShows": 1954,
         "totalSeats": 839144,
-        "seatsAvailable": 716219,
-        "seatsSold": 122925,
+        "seatsAvailable": 716216,
+        "seatsSold": 122928,
         "occupancy": 14.65,
-        "totalRevenue": 14701790.78
+        "totalRevenue": 14702370.78
       }
     },
     "Ganga: Muni 3": {
@@ -48000,38 +48000,38 @@
                       "showTime": "2026-05-07T04:50",
                       "screen": "SCREEN3",
                       "totalSeats": 181,
-                      "availableSeats": 135,
-                      "soldSeats": 46,
-                      "revenue": 13700.0
+                      "availableSeats": 132,
+                      "soldSeats": 49,
+                      "revenue": 14195.0
                     }
                   },
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 362,
-                    "seatsAvailable": 267,
-                    "seatsSold": 95,
-                    "occupancy": 26.24,
-                    "totalRevenue": 28370.0
+                    "seatsAvailable": 264,
+                    "seatsSold": 98,
+                    "occupancy": 27.07,
+                    "totalRevenue": 28865.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 362,
-                "seatsAvailable": 267,
-                "seatsSold": 95,
-                "occupancy": 26.24,
-                "totalRevenue": 28370.0
+                "seatsAvailable": 264,
+                "seatsSold": 98,
+                "occupancy": 27.07,
+                "totalRevenue": 28865.0
               }
             }
           },
           "stateStats": {
             "totalShows": 2,
             "totalSeats": 362,
-            "seatsAvailable": 267,
-            "seatsSold": 95,
-            "occupancy": 26.24,
-            "totalRevenue": 28370.0
+            "seatsAvailable": 264,
+            "seatsSold": 98,
+            "occupancy": 27.07,
+            "totalRevenue": 28865.0
           }
         },
         "kerala": {
@@ -48483,10 +48483,10 @@
       "overallStats": {
         "totalShows": 130,
         "totalSeats": 32561,
-        "seatsAvailable": 28633,
-        "seatsSold": 3928,
-        "occupancy": 12.06,
-        "totalRevenue": 652305.0
+        "seatsAvailable": 28630,
+        "seatsSold": 3931,
+        "occupancy": 12.07,
+        "totalRevenue": 652800.0
       }
     },
     "Patriot": {
@@ -50949,18 +50949,18 @@
                       "showTime": "2026-05-07T16:00",
                       "screen": "SCREEN 1 4K ATMOS",
                       "totalSeats": 294,
-                      "availableSeats": 263,
-                      "soldSeats": 31,
-                      "revenue": 4023.8
+                      "availableSeats": 262,
+                      "soldSeats": 32,
+                      "revenue": 4153.6
                     }
                   },
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 2352,
-                    "seatsAvailable": 2026,
-                    "seatsSold": 326,
-                    "occupancy": 13.86,
-                    "totalRevenue": 42314.8
+                    "seatsAvailable": 2025,
+                    "seatsSold": 327,
+                    "occupancy": 13.9,
+                    "totalRevenue": 42444.6
                   }
                 },
                 "31788": {
@@ -51034,10 +51034,10 @@
               "cityStats": {
                 "totalShows": 22,
                 "totalSeats": 7556,
-                "seatsAvailable": 6757,
-                "seatsSold": 799,
-                "occupancy": 10.57,
-                "totalRevenue": 103710.2
+                "seatsAvailable": 6756,
+                "seatsSold": 800,
+                "occupancy": 10.59,
+                "totalRevenue": 103840.0
               }
             },
             "Alappuzha": {
@@ -52620,18 +52620,18 @@
                       "showTime": "2026-05-07T04:30",
                       "screen": "SANGEETH",
                       "totalSeats": 443,
-                      "availableSeats": 439,
-                      "soldSeats": 4,
-                      "revenue": 420.0
+                      "availableSeats": 437,
+                      "soldSeats": 6,
+                      "revenue": 630.0
                     },
                     "34273__1778141700__4259__18830": {
                       "showId": "34273__1778141700__4259__18830",
                       "showTime": "2026-05-07T08:15",
                       "screen": "SANGEETH",
                       "totalSeats": 443,
-                      "availableSeats": 435,
-                      "soldSeats": 8,
-                      "revenue": 840.0
+                      "availableSeats": 434,
+                      "soldSeats": 9,
+                      "revenue": 945.0
                     },
                     "34273__1778168700__4259__18832": {
                       "showId": "34273__1778168700__4259__18832",
@@ -52646,20 +52646,20 @@
                   "stats": {
                     "totalShows": 7,
                     "totalSeats": 3101,
-                    "seatsAvailable": 2787,
-                    "seatsSold": 314,
-                    "occupancy": 10.13,
-                    "totalRevenue": 32970.0
+                    "seatsAvailable": 2784,
+                    "seatsSold": 317,
+                    "occupancy": 10.22,
+                    "totalRevenue": 33285.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 15,
                 "totalSeats": 5573,
-                "seatsAvailable": 5125,
-                "seatsSold": 448,
-                "occupancy": 8.04,
-                "totalRevenue": 50363.2
+                "seatsAvailable": 5122,
+                "seatsSold": 451,
+                "occupancy": 8.09,
+                "totalRevenue": 50678.2
               }
             },
             "Koottanad": {
@@ -52972,24 +52972,60 @@
                       "availableSeats": 223,
                       "soldSeats": 18,
                       "revenue": 2700.0
+                    },
+                    "34273__1778130900__5950__24118": {
+                      "showId": "34273__1778130900__5950__24118",
+                      "showTime": "2026-05-07T05:15",
+                      "screen": "SCREEN PARK 1",
+                      "totalSeats": 241,
+                      "availableSeats": 241,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34273__1778154300__5950__24120": {
+                      "showId": "34273__1778154300__5950__24120",
+                      "showTime": "2026-05-07T11:45",
+                      "screen": "SCREEN PARK 1",
+                      "totalSeats": 241,
+                      "availableSeats": 241,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34273__1778142600__5950__24119": {
+                      "showId": "34273__1778142600__5950__24119",
+                      "showTime": "2026-05-07T08:30",
+                      "screen": "SCREEN PARK 1",
+                      "totalSeats": 241,
+                      "availableSeats": 241,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34273__1778176800__5950__24122": {
+                      "showId": "34273__1778176800__5950__24122",
+                      "showTime": "2026-05-07T18:00",
+                      "screen": "SCREEN PARK 1",
+                      "totalSeats": 241,
+                      "availableSeats": 241,
+                      "soldSeats": 0,
+                      "revenue": 0.0
                     }
                   },
                   "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 964,
-                    "seatsAvailable": 916,
+                    "totalShows": 8,
+                    "totalSeats": 1928,
+                    "seatsAvailable": 1880,
                     "seatsSold": 48,
-                    "occupancy": 4.98,
+                    "occupancy": 2.49,
                     "totalRevenue": 7200.0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 11,
-                "totalSeats": 4597,
-                "seatsAvailable": 4526,
+                "totalShows": 15,
+                "totalSeats": 5561,
+                "seatsAvailable": 5490,
                 "seatsSold": 71,
-                "occupancy": 1.54,
+                "occupancy": 1.28,
                 "totalRevenue": 10170.0
               }
             },
@@ -53939,9 +53975,9 @@
                       "showTime": "2026-05-07T07:30",
                       "screen": "SCREEN 3",
                       "totalSeats": 230,
-                      "availableSeats": 196,
-                      "soldSeats": 34,
-                      "revenue": 3400.0
+                      "availableSeats": 193,
+                      "soldSeats": 37,
+                      "revenue": 3700.0
                     },
                     "34273__1778171400__2055__61970": {
                       "showId": "34273__1778171400__2055__61970",
@@ -53983,20 +54019,20 @@
                   "stats": {
                     "totalShows": 13,
                     "totalSeats": 2704,
-                    "seatsAvailable": 2017,
-                    "seatsSold": 687,
-                    "occupancy": 25.41,
-                    "totalRevenue": 68700.0
+                    "seatsAvailable": 2014,
+                    "seatsSold": 690,
+                    "occupancy": 25.52,
+                    "totalRevenue": 69000.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 23,
                 "totalSeats": 4604,
-                "seatsAvailable": 3871,
-                "seatsSold": 733,
-                "occupancy": 15.92,
-                "totalRevenue": 73800.0
+                "seatsAvailable": 3868,
+                "seatsSold": 736,
+                "occupancy": 15.99,
+                "totalRevenue": 74100.0
               }
             },
             "Perambra": {
@@ -54668,12 +54704,12 @@
             }
           },
           "stateStats": {
-            "totalShows": 342,
-            "totalSeats": 104236,
-            "seatsAvailable": 94857,
-            "seatsSold": 9379,
-            "occupancy": 9.0,
-            "totalRevenue": 1309459.12
+            "totalShows": 346,
+            "totalSeats": 105200,
+            "seatsAvailable": 95814,
+            "seatsSold": 9386,
+            "occupancy": 8.92,
+            "totalRevenue": 1310203.92
           }
         },
         "andaman-and-nicobar-islands": {
@@ -54805,9 +54841,36 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34273__1778085000__387__1445818": {
-                      "showId": "34273__1778085000__387__1445818",
-                      "showTime": "2026-05-06T16:30",
+                    "34273__1778142600__387__1451537": {
+                      "showId": "34273__1778142600__387__1451537",
+                      "showTime": "2026-05-07T08:30",
+                      "screen": "SCREEN 1",
+                      "totalSeats": 212,
+                      "availableSeats": 212,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34273__1778157000__387__1451538": {
+                      "showId": "34273__1778157000__387__1451538",
+                      "showTime": "2026-05-07T12:30",
+                      "screen": "SCREEN 1",
+                      "totalSeats": 212,
+                      "availableSeats": 212,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34273__1778130000__387__1451536": {
+                      "showId": "34273__1778130000__387__1451536",
+                      "showTime": "2026-05-07T05:00",
+                      "screen": "SCREEN 1",
+                      "totalSeats": 212,
+                      "availableSeats": 212,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34273__1778171400__387__1451539": {
+                      "showId": "34273__1778171400__387__1451539",
+                      "showTime": "2026-05-07T16:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
                       "availableSeats": 212,
@@ -54816,9 +54879,9 @@
                     }
                   },
                   "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 212,
-                    "seatsAvailable": 212,
+                    "totalShows": 4,
+                    "totalSeats": 848,
+                    "seatsAvailable": 848,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -54826,9 +54889,9 @@
                 }
               },
               "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 212,
-                "seatsAvailable": 212,
+                "totalShows": 4,
+                "totalSeats": 848,
+                "seatsAvailable": 848,
                 "seatsSold": 0,
                 "occupancy": 0.0,
                 "totalRevenue": 0.0
@@ -54836,9 +54899,9 @@
             }
           },
           "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 212,
-            "seatsAvailable": 212,
+            "totalShows": 4,
+            "totalSeats": 848,
+            "seatsAvailable": 848,
             "seatsSold": 0,
             "occupancy": 0.0,
             "totalRevenue": 0.0
@@ -54942,18 +55005,18 @@
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34273__1778130000__387__1451536": {
-                      "showId": "34273__1778130000__387__1451536",
-                      "showTime": "2026-05-07T05:00",
+                    "34273__1778171400__387__1451539": {
+                      "showId": "34273__1778171400__387__1451539",
+                      "showTime": "2026-05-07T16:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
                       "availableSeats": 212,
                       "soldSeats": 0,
                       "revenue": 0.0
                     },
-                    "34273__1778171400__387__1451539": {
-                      "showId": "34273__1778171400__387__1451539",
-                      "showTime": "2026-05-07T16:30",
+                    "34273__1778130000__387__1451536": {
+                      "showId": "34273__1778130000__387__1451536",
+                      "showTime": "2026-05-07T05:00",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
                       "availableSeats": 212,
@@ -54992,12 +55055,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 518,
-        "totalSeats": 144204,
-        "seatsAvailable": 130564,
-        "seatsSold": 13640,
-        "occupancy": 9.46,
-        "totalRevenue": 1981974.88
+        "totalShows": 521,
+        "totalSeats": 144956,
+        "seatsAvailable": 131309,
+        "seatsSold": 13647,
+        "occupancy": 9.41,
+        "totalRevenue": 1982719.68
       }
     },
     "The Devil Wears Prada 2": {
@@ -67486,24 +67549,33 @@
                       "availableSeats": 208,
                       "soldSeats": 33,
                       "revenue": 4950.0
+                    },
+                    "34206__1778166900__5950__24121": {
+                      "showId": "34206__1778166900__5950__24121",
+                      "showTime": "2026-05-07T15:15",
+                      "screen": "SCREEN PARK 1",
+                      "totalSeats": 241,
+                      "availableSeats": 241,
+                      "soldSeats": 0,
+                      "revenue": 0.0
                     }
                   },
                   "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 241,
-                    "seatsAvailable": 208,
+                    "totalShows": 2,
+                    "totalSeats": 482,
+                    "seatsAvailable": 449,
                     "seatsSold": 33,
-                    "occupancy": 13.69,
+                    "occupancy": 6.85,
                     "totalRevenue": 4950.0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 241,
-                "seatsAvailable": 208,
+                "totalShows": 2,
+                "totalSeats": 482,
+                "seatsAvailable": 449,
                 "seatsSold": 33,
-                "occupancy": 13.69,
+                "occupancy": 6.85,
                 "totalRevenue": 4950.0
               }
             },
@@ -67570,58 +67642,12 @@
             }
           },
           "stateStats": {
-            "totalShows": 122,
-            "totalSeats": 20768,
-            "seatsAvailable": 19641,
+            "totalShows": 123,
+            "totalSeats": 21009,
+            "seatsAvailable": 19882,
             "seatsSold": 1127,
-            "occupancy": 5.43,
+            "occupancy": 5.36,
             "totalRevenue": 147792.02
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34206__1778081400__388__1445820": {
-                      "showId": "34206__1778081400__388__1445820",
-                      "showTime": "2026-05-06T15:30",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 182,
-                      "soldSeats": 6,
-                      "revenue": 960.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 188,
-                    "seatsAvailable": 182,
-                    "seatsSold": 6,
-                    "occupancy": 3.19,
-                    "totalRevenue": 960.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 188,
-                "seatsAvailable": 182,
-                "seatsSold": 6,
-                "occupancy": 3.19,
-                "totalRevenue": 960.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 188,
-            "seatsAvailable": 182,
-            "seatsSold": 6,
-            "occupancy": 3.19,
-            "totalRevenue": 960.0
           }
         },
         "null": {
@@ -67678,15 +67704,70 @@
             "occupancy": 0.0,
             "totalRevenue": 0.0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {
+                    "34206__1778167800__388__1451542": {
+                      "showId": "34206__1778167800__388__1451542",
+                      "showTime": "2026-05-07T15:30",
+                      "screen": "SCREEN 2",
+                      "totalSeats": 188,
+                      "availableSeats": 188,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    },
+                    "34206__1778146200__388__1451540": {
+                      "showId": "34206__1778146200__388__1451540",
+                      "showTime": "2026-05-07T09:30",
+                      "screen": "SCREEN 2",
+                      "totalSeats": 188,
+                      "availableSeats": 188,
+                      "soldSeats": 0,
+                      "revenue": 0.0
+                    }
+                  },
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 376,
+                    "seatsAvailable": 376,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 376,
+                "seatsAvailable": 376,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 2,
+            "totalSeats": 376,
+            "seatsAvailable": 376,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          }
         }
       },
       "overallStats": {
         "totalShows": 125,
-        "totalSeats": 21332,
-        "seatsAvailable": 20199,
-        "seatsSold": 1133,
-        "occupancy": 5.31,
-        "totalRevenue": 148752.02
+        "totalSeats": 21385,
+        "seatsAvailable": 20258,
+        "seatsSold": 1127,
+        "occupancy": 5.27,
+        "totalRevenue": 147792.02
       }
     },
     "Youth": {
@@ -70903,37 +70984,37 @@
                       "showTime": "2026-05-07T04:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 111,
-                      "availableSeats": 75,
-                      "soldSeats": 36,
-                      "revenue": 3600.0
+                      "availableSeats": 74,
+                      "soldSeats": 37,
+                      "revenue": 3700.0
                     },
                     "34251__1778171400__2054__61988": {
                       "showId": "34251__1778171400__2054__61988",
                       "showTime": "2026-05-07T16:30",
                       "screen": "SCREEN 2",
                       "totalSeats": 111,
-                      "availableSeats": 99,
-                      "soldSeats": 12,
-                      "revenue": 1200.0
+                      "availableSeats": 95,
+                      "soldSeats": 16,
+                      "revenue": 1600.0
                     }
                   },
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 444,
-                    "seatsAvailable": 359,
-                    "seatsSold": 85,
-                    "occupancy": 19.14,
-                    "totalRevenue": 8500.0
+                    "seatsAvailable": 354,
+                    "seatsSold": 90,
+                    "occupancy": 20.27,
+                    "totalRevenue": 9000.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 444,
-                "seatsAvailable": 359,
-                "seatsSold": 85,
-                "occupancy": 19.14,
-                "totalRevenue": 8500.0
+                "seatsAvailable": 354,
+                "seatsSold": 90,
+                "occupancy": 20.27,
+                "totalRevenue": 9000.0
               }
             },
             "Mukkam": {
@@ -71019,20 +71100,20 @@
           "stateStats": {
             "totalShows": 48,
             "totalSeats": 13296,
-            "seatsAvailable": 11420,
-            "seatsSold": 1876,
-            "occupancy": 14.11,
-            "totalRevenue": 252797.28
+            "seatsAvailable": 11415,
+            "seatsSold": 1881,
+            "occupancy": 14.15,
+            "totalRevenue": 253297.28
           }
         }
       },
       "overallStats": {
         "totalShows": 48,
         "totalSeats": 13296,
-        "seatsAvailable": 11420,
-        "seatsSold": 1876,
-        "occupancy": 14.11,
-        "totalRevenue": 252797.28
+        "seatsAvailable": 11415,
+        "seatsSold": 1881,
+        "occupancy": 14.15,
+        "totalRevenue": 253297.28
       }
     },
     "Pallichattambi": {
