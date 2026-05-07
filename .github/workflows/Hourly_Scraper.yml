@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 55
     
-    # Updated to use ENC_KEY
-env:
-      SUPER_KEY: ${{ secrets.SUPER_KEY }} # Needed for BMS, District, and Merger
-      ENC_KEY: ${{ secrets.ENC_KEY }}
+    # CRITICAL: Both keys must be present here!
+    env:
+      SUPER_KEY: ${{ secrets.SUPER_KEY }} # Used by BMS/District/Merger
+      ENC_KEY: ${{ secrets.ENC_KEY }}     # Used by encryptor.py
 
     steps:
       - name: Checkout repo
