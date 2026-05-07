@@ -32452,38 +32452,38 @@
                       "showTime": "2026-05-07T16:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
-                      "availableSeats": 179,
-                      "soldSeats": 33,
-                      "revenue": 5280.0
+                      "availableSeats": 141,
+                      "soldSeats": 71,
+                      "revenue": 11360.0
                     }
                   },
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 212,
-                    "seatsAvailable": 179,
-                    "seatsSold": 33,
-                    "occupancy": 15.57,
-                    "totalRevenue": 5280.0
+                    "seatsAvailable": 141,
+                    "seatsSold": 71,
+                    "occupancy": 33.49,
+                    "totalRevenue": 11360.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 212,
-                "seatsAvailable": 179,
-                "seatsSold": 33,
-                "occupancy": 15.57,
-                "totalRevenue": 5280.0
+                "seatsAvailable": 141,
+                "seatsSold": 71,
+                "occupancy": 33.49,
+                "totalRevenue": 11360.0
               }
             }
           },
           "stateStats": {
             "totalShows": 1,
             "totalSeats": 212,
-            "seatsAvailable": 179,
-            "seatsSold": 33,
-            "occupancy": 15.57,
-            "totalRevenue": 5280.0
+            "seatsAvailable": 141,
+            "seatsSold": 71,
+            "occupancy": 33.49,
+            "totalRevenue": 11360.0
           }
         },
         "andhra-pradesh": {
@@ -32539,52 +32539,6 @@
             "seatsSold": 29,
             "occupancy": 6.13,
             "totalRevenue": 6195.0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34273__1778171400__387__1451539": {
-                      "showId": "34273__1778171400__387__1451539",
-                      "showTime": "2026-05-07T16:30",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 141,
-                      "soldSeats": 71,
-                      "revenue": 11360.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 212,
-                    "seatsAvailable": 141,
-                    "seatsSold": 71,
-                    "occupancy": 33.49,
-                    "totalRevenue": 11360.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 212,
-                "seatsAvailable": 141,
-                "seatsSold": 71,
-                "occupancy": 33.49,
-                "totalRevenue": 11360.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 212,
-            "seatsAvailable": 141,
-            "seatsSold": 71,
-            "occupancy": 33.49,
-            "totalRevenue": 11360.0
           }
         }
       },
