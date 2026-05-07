@@ -14,7 +14,8 @@ jobs:
     timeout-minutes: 55
     
     # Updated to use ENC_KEY
-    env:
+env:
+      SUPER_KEY: ${{ secrets.SUPER_KEY }} # Needed for BMS, District, and Merger
       ENC_KEY: ${{ secrets.ENC_KEY }}
 
     steps:
