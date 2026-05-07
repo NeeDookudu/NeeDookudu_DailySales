@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 55
     
-    # Global environment variable for all steps
+    # Updated to use ENC_KEY
     env:
-      SUPER_KEY: ${{ secrets.SUPER_KEY }}
+      ENC_KEY: ${{ secrets.ENC_KEY }}
 
     steps:
       - name: Checkout repo
@@ -35,8 +35,10 @@ jobs:
       - name: Install Chromium
         run: playwright install chromium --with-deps
 
-      - name: Create data directory
-        run: mkdir -p data
+      - name: Create data directories
+        run: |
+          mkdir -p data
+          mkdir -p encoded_data
 
       - name: 1. Run BMS Fetcher
         run: python BMSLIVERUN.py
@@ -47,19 +49,21 @@ jobs:
       - name: 3. Run Merger
         run: python MergerRun.py
 
+      - name: 4. Encrypt Merged Data
+        run: python encryptor.py
+
       - name: Commit and push data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Stage all changes in the data folder
-          git add data/
+          # Stage both raw data and encoded data folders
+          git add data/ encoded_data/
 
           # Check if there are changes to commit
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update collections data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Update collections data and encrypted payloads: $(date -u +'%Y-%m-%d %H:%M UTC')"
             
-            # Simple push. If it fails due to a web-upload conflict, it will pull once and try again.
             git push || (git pull --rebase origin main && git push)
           else
             echo "No changes to commit"
