@@ -28478,18 +28478,18 @@
                       "showTime": "2026-05-08T18:25",
                       "screen": "SCREEN2",
                       "totalSeats": 334,
-                      "availableSeats": 302,
-                      "soldSeats": 32,
-                      "revenue": 3681.4
+                      "availableSeats": 147,
+                      "soldSeats": 187,
+                      "revenue": 21760.8
                     }
                   },
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 1002,
-                    "seatsAvailable": 810,
-                    "seatsSold": 192,
-                    "occupancy": 19.16,
-                    "totalRevenue": 21952.65
+                    "seatsAvailable": 655,
+                    "seatsSold": 347,
+                    "occupancy": 34.63,
+                    "totalRevenue": 40032.05
                   }
                 },
                 "1042615": {
@@ -28709,10 +28709,10 @@
               "cityStats": {
                 "totalShows": 49,
                 "totalSeats": 16269,
-                "seatsAvailable": 13711,
-                "seatsSold": 2558,
-                "occupancy": 15.72,
-                "totalRevenue": 342372.69
+                "seatsAvailable": 13556,
+                "seatsSold": 2713,
+                "occupancy": 16.68,
+                "totalRevenue": 360452.09
               }
             },
             "Thiruvallur": {
@@ -31124,10 +31124,10 @@
           "stateStats": {
             "totalShows": 202,
             "totalSeats": 54701,
-            "seatsAvailable": 49678,
-            "seatsSold": 5023,
-            "occupancy": 9.18,
-            "totalRevenue": 652892.69
+            "seatsAvailable": 49523,
+            "seatsSold": 5178,
+            "occupancy": 9.47,
+            "totalRevenue": 670972.09
           }
         },
         "karnataka": {
@@ -31180,10 +31180,10 @@
       "overallStats": {
         "totalShows": 203,
         "totalSeats": 54991,
-        "seatsAvailable": 49950,
-        "seatsSold": 5041,
-        "occupancy": 9.17,
-        "totalRevenue": 655592.69
+        "seatsAvailable": 49795,
+        "seatsSold": 5196,
+        "occupancy": 9.45,
+        "totalRevenue": 673672.09
       }
     },
     "Michael": {
