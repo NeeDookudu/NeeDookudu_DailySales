@@ -8604,9 +8604,9 @@
                       "showTime": "2026-05-10T05:45",
                       "screen": "SCREEN4",
                       "totalSeats": 352,
-                      "availableSeats": 262,
-                      "soldSeats": 90,
-                      "revenue": 17950.0
+                      "availableSeats": 260,
+                      "soldSeats": 92,
+                      "revenue": 18310.0
                     },
                     "34350__1778410800__79__1450807": {
                       "showId": "34350__1778410800__79__1450807",
@@ -8621,10 +8621,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 2816,
-                    "seatsAvailable": 2057,
-                    "seatsSold": 759,
-                    "occupancy": 26.95,
-                    "totalRevenue": 151170.0
+                    "seatsAvailable": 2055,
+                    "seatsSold": 761,
+                    "occupancy": 27.02,
+                    "totalRevenue": 151530.0
                   }
                 },
                 "9487": {
@@ -8662,30 +8662,30 @@
               "cityStats": {
                 "totalShows": 10,
                 "totalSeats": 3396,
-                "seatsAvailable": 2591,
-                "seatsSold": 805,
-                "occupancy": 23.7,
-                "totalRevenue": 158070.0
+                "seatsAvailable": 2589,
+                "seatsSold": 807,
+                "occupancy": 23.76,
+                "totalRevenue": 158430.0
               }
             }
           },
           "stateStats": {
             "totalShows": 10,
             "totalSeats": 3396,
-            "seatsAvailable": 2591,
-            "seatsSold": 805,
-            "occupancy": 23.7,
-            "totalRevenue": 158070.0
+            "seatsAvailable": 2589,
+            "seatsSold": 807,
+            "occupancy": 23.76,
+            "totalRevenue": 158430.0
           }
         }
       },
       "overallStats": {
         "totalShows": 424,
         "totalSeats": 182416,
-        "seatsAvailable": 149988,
-        "seatsSold": 32428,
+        "seatsAvailable": 149986,
+        "seatsSold": 32430,
         "occupancy": 17.78,
-        "totalRevenue": 3616785.0
+        "totalRevenue": 3617145.0
       }
     },
     "Vidhi Geesina V'Chitram": {
@@ -57215,9 +57215,9 @@
                       "showTime": "2026-05-10T13:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 172,
-                      "availableSeats": 168,
-                      "soldSeats": 4,
-                      "revenue": 720.0
+                      "availableSeats": 164,
+                      "soldSeats": 8,
+                      "revenue": 1440.0
                     },
                     "34273__1778431800__177__1460418": {
                       "showId": "34273__1778431800__177__1460418",
@@ -57232,20 +57232,20 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1032,
-                    "seatsAvailable": 938,
-                    "seatsSold": 94,
-                    "occupancy": 9.11,
-                    "totalRevenue": 17550.0
+                    "seatsAvailable": 934,
+                    "seatsSold": 98,
+                    "occupancy": 9.5,
+                    "totalRevenue": 18270.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1032,
-                "seatsAvailable": 938,
-                "seatsSold": 94,
-                "occupancy": 9.11,
-                "totalRevenue": 17550.0
+                "seatsAvailable": 934,
+                "seatsSold": 98,
+                "occupancy": 9.5,
+                "totalRevenue": 18270.0
               }
             },
             "Amballur": {
@@ -60003,10 +60003,10 @@
           "stateStats": {
             "totalShows": 244,
             "totalSeats": 67320,
-            "seatsAvailable": 60473,
-            "seatsSold": 6847,
-            "occupancy": 10.17,
-            "totalRevenue": 995671.62
+            "seatsAvailable": 60469,
+            "seatsSold": 6851,
+            "occupancy": 10.18,
+            "totalRevenue": 996391.62
           }
         },
         "andaman-and-nicobar-islands": {
@@ -60178,10 +60178,10 @@
       "overallStats": {
         "totalShows": 264,
         "totalSeats": 71786,
-        "seatsAvailable": 64455,
-        "seatsSold": 7331,
-        "occupancy": 10.21,
-        "totalRevenue": 1062331.62
+        "seatsAvailable": 64451,
+        "seatsSold": 7335,
+        "occupancy": 10.22,
+        "totalRevenue": 1063051.62
       }
     },
     "A Film by Giri": {
