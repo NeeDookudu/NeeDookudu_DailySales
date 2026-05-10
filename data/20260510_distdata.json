@@ -18347,9 +18347,9 @@
                       "showTime": "2026-05-11T05:15",
                       "screen": "SCREEN 4",
                       "totalSeats": 403,
-                      "availableSeats": 374,
-                      "soldSeats": 29,
-                      "revenue": 6077.0
+                      "availableSeats": 381,
+                      "soldSeats": 22,
+                      "revenue": 4012.0
                     },
                     "34350__1778498100__4__12930": {
                       "showId": "34350__1778498100__4__12930",
@@ -18391,30 +18391,30 @@
                   "stats": {
                     "totalShows": 10,
                     "totalSeats": 4030,
-                    "seatsAvailable": 3694,
-                    "seatsSold": 336,
-                    "occupancy": 8.34,
-                    "totalRevenue": 69148.0
+                    "seatsAvailable": 3701,
+                    "seatsSold": 329,
+                    "occupancy": 8.16,
+                    "totalRevenue": 67083.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 15,
                 "totalSeats": 5110,
-                "seatsAvailable": 4699,
-                "seatsSold": 411,
-                "occupancy": 8.04,
-                "totalRevenue": 85373.0
+                "seatsAvailable": 4706,
+                "seatsSold": 404,
+                "occupancy": 7.91,
+                "totalRevenue": 83308.0
               }
             }
           },
           "stateStats": {
             "totalShows": 316,
             "totalSeats": 125159,
-            "seatsAvailable": 109294,
-            "seatsSold": 15865,
-            "occupancy": 12.68,
-            "totalRevenue": 1910472.0
+            "seatsAvailable": 109301,
+            "seatsSold": 15858,
+            "occupancy": 12.67,
+            "totalRevenue": 1908407.0
           }
         },
         "telangana": {
@@ -19754,10 +19754,10 @@
       "overallStats": {
         "totalShows": 421,
         "totalSeats": 179540,
-        "seatsAvailable": 150252,
-        "seatsSold": 29288,
+        "seatsAvailable": 150259,
+        "seatsSold": 29281,
         "occupancy": 16.31,
-        "totalRevenue": 3339927.0
+        "totalRevenue": 3337862.0
       }
     },
     "Vidhi Geesina V'Chitram": {
@@ -48618,48 +48618,48 @@
                       "showTime": "2026-05-11T07:10",
                       "screen": "SCREEN 1",
                       "totalSeats": 257,
-                      "availableSeats": 257,
-                      "soldSeats": 0,
-                      "revenue": 0.0
+                      "availableSeats": 256,
+                      "soldSeats": 1,
+                      "revenue": 150.0
                     }
                   },
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 514,
-                    "seatsAvailable": 503,
-                    "seatsSold": 11,
-                    "occupancy": 2.14,
-                    "totalRevenue": 1850.0
+                    "seatsAvailable": 502,
+                    "seatsSold": 12,
+                    "occupancy": 2.33,
+                    "totalRevenue": 2000.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 514,
-                "seatsAvailable": 503,
-                "seatsSold": 11,
-                "occupancy": 2.14,
-                "totalRevenue": 1850.0
+                "seatsAvailable": 502,
+                "seatsSold": 12,
+                "occupancy": 2.33,
+                "totalRevenue": 2000.0
               }
             }
           },
           "stateStats": {
             "totalShows": 2,
             "totalSeats": 514,
-            "seatsAvailable": 503,
-            "seatsSold": 11,
-            "occupancy": 2.14,
-            "totalRevenue": 1850.0
+            "seatsAvailable": 502,
+            "seatsSold": 12,
+            "occupancy": 2.33,
+            "totalRevenue": 2000.0
           }
         }
       },
       "overallStats": {
         "totalShows": 103,
         "totalSeats": 23972,
-        "seatsAvailable": 20841,
-        "seatsSold": 3131,
-        "occupancy": 13.06,
-        "totalRevenue": 546335.4
+        "seatsAvailable": 20840,
+        "seatsSold": 3132,
+        "occupancy": 13.07,
+        "totalRevenue": 546485.4
       }
     },
     "Patriot": {
