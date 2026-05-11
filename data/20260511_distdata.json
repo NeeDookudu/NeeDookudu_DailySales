@@ -32315,52 +32315,6 @@
                       "showTime": "2026-05-11T15:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 212,
-                      "availableSeats": 212,
-                      "soldSeats": 0,
-                      "revenue": 0.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 212,
-                    "seatsAvailable": 212,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 212,
-                "seatsAvailable": 212,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 212,
-            "seatsAvailable": 212,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34273__1778513400__387__1465450": {
-                      "showId": "34273__1778513400__387__1465450",
-                      "showTime": "2026-05-11T15:30",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
                       "availableSeats": 205,
                       "soldSeats": 7,
                       "revenue": 1120.0
@@ -35514,61 +35468,6 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34335__1778502600__388__1465453": {
-                      "showId": "34335__1778502600__388__1465453",
-                      "showTime": "2026-05-11T12:30",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 183,
-                      "soldSeats": 5,
-                      "revenue": 800.0
-                    },
-                    "34335__1778515200__388__1465454": {
-                      "showId": "34335__1778515200__388__1465454",
-                      "showTime": "2026-05-11T16:00",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 186,
-                      "soldSeats": 2,
-                      "revenue": 320.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 376,
-                    "seatsAvailable": 369,
-                    "seatsSold": 7,
-                    "occupancy": 1.86,
-                    "totalRevenue": 1120.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 376,
-                "seatsAvailable": 369,
-                "seatsSold": 7,
-                "occupancy": 1.86,
-                "totalRevenue": 1120.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 2,
-            "totalSeats": 376,
-            "seatsAvailable": 369,
-            "seatsSold": 7,
-            "occupancy": 1.86,
-            "totalRevenue": 1120.0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
                     "34335__1778515200__388__1465454": {
                       "showId": "34335__1778515200__388__1465454",
                       "showTime": "2026-05-11T16:00",
@@ -35610,12 +35509,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 129,
-        "totalSeats": 33683,
-        "seatsAvailable": 31778,
-        "seatsSold": 1905,
-        "occupancy": 5.66,
-        "totalRevenue": 246907.46
+        "totalShows": 128,
+        "totalSeats": 33495,
+        "seatsAvailable": 31595,
+        "seatsSold": 1900,
+        "occupancy": 5.67,
+        "totalRevenue": 246107.46
       }
     },
     "LIK: Love Insurance Kompany": {
