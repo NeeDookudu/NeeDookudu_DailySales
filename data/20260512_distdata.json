@@ -38429,9 +38429,9 @@
                       "showTime": "2026-05-13T06:30",
                       "screen": "SCREEN1",
                       "totalSeats": 606,
-                      "availableSeats": 582,
-                      "soldSeats": 24,
-                      "revenue": 3498.0
+                      "availableSeats": 578,
+                      "soldSeats": 28,
+                      "revenue": 4098.0
                     },
                     "34356__1778679000__10__73970": {
                       "showId": "34356__1778679000__10__73970",
@@ -38464,10 +38464,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 4848,
-                    "seatsAvailable": 4737,
-                    "seatsSold": 111,
-                    "occupancy": 2.29,
-                    "totalRevenue": 14831.6
+                    "seatsAvailable": 4733,
+                    "seatsSold": 115,
+                    "occupancy": 2.37,
+                    "totalRevenue": 15431.6
                   }
                 },
                 "1042615": {
@@ -38750,10 +38750,10 @@
               "cityStats": {
                 "totalShows": 76,
                 "totalSeats": 30598,
-                "seatsAvailable": 26992,
-                "seatsSold": 3606,
-                "occupancy": 11.79,
-                "totalRevenue": 458903.68
+                "seatsAvailable": 26988,
+                "seatsSold": 3610,
+                "occupancy": 11.8,
+                "totalRevenue": 459503.68
               }
             },
             "Ambasamudram": {
@@ -42116,10 +42116,10 @@
           "stateStats": {
             "totalShows": 355,
             "totalSeats": 99783,
-            "seatsAvailable": 90739,
-            "seatsSold": 9044,
-            "occupancy": 9.06,
-            "totalRevenue": 1131733.68
+            "seatsAvailable": 90735,
+            "seatsSold": 9048,
+            "occupancy": 9.07,
+            "totalRevenue": 1132333.68
           }
         },
         "karnataka": {
@@ -42212,10 +42212,10 @@
       "overallStats": {
         "totalShows": 359,
         "totalSeats": 100435,
-        "seatsAvailable": 91340,
-        "seatsSold": 9095,
+        "seatsAvailable": 91336,
+        "seatsSold": 9099,
         "occupancy": 9.06,
-        "totalRevenue": 1139383.68
+        "totalRevenue": 1139983.68
       }
     },
     "Michael": {
@@ -45367,9 +45367,9 @@
                       "showTime": "2026-05-13T13:30",
                       "screen": "SCREEN 1",
                       "totalSeats": 151,
-                      "availableSeats": 150,
-                      "soldSeats": 1,
-                      "revenue": 129.8
+                      "availableSeats": 146,
+                      "soldSeats": 5,
+                      "revenue": 649.0
                     },
                     "34273__1778690700__5223__18947": {
                       "showId": "34273__1778690700__5223__18947",
@@ -45393,20 +45393,20 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 906,
-                    "seatsAvailable": 897,
-                    "seatsSold": 9,
-                    "occupancy": 0.99,
-                    "totalRevenue": 1378.8
+                    "seatsAvailable": 893,
+                    "seatsSold": 13,
+                    "occupancy": 1.43,
+                    "totalRevenue": 1898.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 11,
                 "totalSeats": 2176,
-                "seatsAvailable": 2167,
-                "seatsSold": 9,
-                "occupancy": 0.41,
-                "totalRevenue": 1378.8
+                "seatsAvailable": 2163,
+                "seatsSold": 13,
+                "occupancy": 0.6,
+                "totalRevenue": 1898.0
               }
             },
             "Pandikkad": {
@@ -46434,10 +46434,10 @@
           "stateStats": {
             "totalShows": 220,
             "totalSeats": 59928,
-            "seatsAvailable": 55410,
-            "seatsSold": 4518,
-            "occupancy": 7.54,
-            "totalRevenue": 665094.08
+            "seatsAvailable": 55406,
+            "seatsSold": 4522,
+            "occupancy": 7.55,
+            "totalRevenue": 665613.28
           }
         },
         "null": {
@@ -46554,10 +46554,10 @@
       "overallStats": {
         "totalShows": 230,
         "totalSeats": 62467,
-        "seatsAvailable": 57674,
-        "seatsSold": 4793,
-        "occupancy": 7.67,
-        "totalRevenue": 701124.08
+        "seatsAvailable": 57670,
+        "seatsSold": 4797,
+        "occupancy": 7.68,
+        "totalRevenue": 701643.28
       }
     },
     "Krishnavataram Part 1: The Heart [Hridayam]": {
@@ -62831,10 +62831,10 @@
                       "showId": "15938",
                       "showTime": "2026-05-13T05:15",
                       "screen": "AUDI 04",
-                      "totalSeats": 158,
+                      "totalSeats": 180,
                       "availableSeats": 158,
-                      "soldSeats": 0,
-                      "revenue": 0.0
+                      "soldSeats": 22,
+                      "revenue": 4602.0
                     },
                     "15940": {
                       "showId": "15940",
@@ -62848,41 +62848,41 @@
                   },
                   "stats": {
                     "totalShows": 4,
-                    "totalSeats": 654,
+                    "totalSeats": 676,
                     "seatsAvailable": 627,
-                    "seatsSold": 27,
-                    "occupancy": 4.13,
-                    "totalRevenue": 6077.0
+                    "seatsSold": 49,
+                    "occupancy": 7.25,
+                    "totalRevenue": 10679.0
                   }
                 }
               },
               "cityStats": {
                 "totalShows": 8,
-                "totalSeats": 846,
+                "totalSeats": 868,
                 "seatsAvailable": 801,
-                "seatsSold": 45,
-                "occupancy": 5.32,
-                "totalRevenue": 10915.0
+                "seatsSold": 67,
+                "occupancy": 7.72,
+                "totalRevenue": 15517.0
               }
             }
           },
           "stateStats": {
             "totalShows": 16,
-            "totalSeats": 2316,
+            "totalSeats": 2338,
             "seatsAvailable": 2200,
-            "seatsSold": 116,
-            "occupancy": 5.01,
-            "totalRevenue": 25842.0
+            "seatsSold": 138,
+            "occupancy": 5.9,
+            "totalRevenue": 30444.0
           }
         }
       },
       "overallStats": {
         "totalShows": 16,
-        "totalSeats": 2316,
+        "totalSeats": 2338,
         "seatsAvailable": 2200,
-        "seatsSold": 116,
-        "occupancy": 5.01,
-        "totalRevenue": 25842.0
+        "seatsSold": 138,
+        "occupancy": 5.9,
+        "totalRevenue": 30444.0
       }
     },
     "Guardians The Superheroes": {
