@@ -46817,44 +46817,34 @@
               "theatres": {
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34335__1778749200__388__1469384": {
-                      "showId": "34335__1778749200__388__1469384",
-                      "showTime": "2026-05-14T09:00",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 186,
-                      "soldSeats": 2,
-                      "revenue": 320.0
-                    }
-                  },
+                  "shows": {},
                   "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 188,
-                    "seatsAvailable": 186,
-                    "seatsSold": 2,
-                    "occupancy": 1.06,
-                    "totalRevenue": 320.0
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 188,
-                "seatsAvailable": 186,
-                "seatsSold": 2,
-                "occupancy": 1.06,
-                "totalRevenue": 320.0
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
               }
             }
           },
           "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 188,
-            "seatsAvailable": 186,
-            "seatsSold": 2,
-            "occupancy": 1.06,
-            "totalRevenue": 320.0
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
           }
         },
         "null": {
@@ -46895,12 +46885,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 50,
-        "totalSeats": 8371,
-        "seatsAvailable": 8160,
-        "seatsSold": 211,
-        "occupancy": 2.52,
-        "totalRevenue": 24524.6
+        "totalShows": 49,
+        "totalSeats": 8183,
+        "seatsAvailable": 7974,
+        "seatsSold": 209,
+        "occupancy": 2.55,
+        "totalRevenue": 24204.6
       }
     },
     "Madhuvidhu": {
