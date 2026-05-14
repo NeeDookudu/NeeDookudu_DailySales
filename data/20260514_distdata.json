@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-05-14",
-  "totalMovies": 52,
+  "totalMovies": 53,
   "movies": {
     "Veerabhadrudu": {
       "name": "Veerabhadrudu",
@@ -9103,6 +9103,78 @@
                 "occupancy": 20.1,
                 "totalRevenue": 24800.0
               }
+            },
+            "Railway Koduru": {
+              "theatres": {
+                "1027903": {
+                  "theatreName": "Chandan Cinemas, Dolby Atmos, Railway Koduru",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Rajampet": {
+              "theatres": {
+                "1014990": {
+                  "theatreName": "Sri Sai Cinemas A/C 4K Dolby Atmos, Saraswathipuram, Rajampet",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Chirala": {
+              "theatres": {
+                "4910": {
+                  "theatreName": "Suresh Mahal, Perala, Chirala",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13017,6 +13089,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0.0
               }
+            },
+            "Jammalamadugu": {
+              "theatres": {
+                "1044095": {
+                  "theatreName": "TPR Cinemas A/C DTS, RDO Office, Jammalamadugu",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13990,6 +14086,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
                   }
+                },
+                "1007282": {
+                  "theatreName": "Sri Balakrishna Talkies 4K Dolby Atmos, Thoothukudi, Tuticorin",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -14120,6 +14228,18 @@
                     "seatsSold": 38,
                     "occupancy": 8.44,
                     "totalRevenue": 4560.0
+                  }
+                },
+                "1030504": {
+                  "theatreName": "Meenakshi Cinemas A/C RGB Laser Dts X Manali, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
                   }
                 }
               },
@@ -14429,6 +14549,54 @@
                 "seatsSold": 20,
                 "occupancy": 12.2,
                 "totalRevenue": 2600.0
+              }
+            },
+            "Sivakasi": {
+              "theatres": {
+                "1037514": {
+                  "theatreName": "Sri Ganesh Balaganesh Cinemas, Parapatti, Sivakasi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Thiruvannamalai": {
+              "theatres": {
+                "9384": {
+                  "theatreName": "Sri Balasubramaniar Cinemas, Chengam Road, Thiruvannamalai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
               }
             }
           },
@@ -25278,6 +25446,30 @@
                 "occupancy": 1.63,
                 "totalRevenue": 4160.0
               }
+            },
+            "Tuticorin": {
+              "theatres": {
+                "7686": {
+                  "theatreName": "Ksps Ganapathy Kalaiarangam 4K RGB Laser, Dolby Atmos",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -28981,62 +29173,34 @@
               "theatres": {
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34392__1778773500__387__1469380": {
-                      "showId": "34392__1778773500__387__1469380",
-                      "showTime": "2026-05-14T15:45",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 81,
-                      "soldSeats": 131,
-                      "revenue": 20960.0
-                    },
-                    "34392__1778760900__387__1469379": {
-                      "showId": "34392__1778760900__387__1469379",
-                      "showTime": "2026-05-14T12:15",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 83,
-                      "soldSeats": 129,
-                      "revenue": 20640.0
-                    },
-                    "34392__1778748300__387__1469378": {
-                      "showId": "34392__1778748300__387__1469378",
-                      "showTime": "2026-05-14T08:45",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 21,
-                      "soldSeats": 191,
-                      "revenue": 30560.0
-                    }
-                  },
+                  "shows": {},
                   "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 636,
-                    "seatsAvailable": 185,
-                    "seatsSold": 451,
-                    "occupancy": 70.91,
-                    "totalRevenue": 72160.0
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
                   }
                 }
               },
               "cityStats": {
-                "totalShows": 3,
-                "totalSeats": 636,
-                "seatsAvailable": 185,
-                "seatsSold": 451,
-                "occupancy": 70.91,
-                "totalRevenue": 72160.0
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
               }
             }
           },
           "stateStats": {
-            "totalShows": 3,
-            "totalSeats": 636,
-            "seatsAvailable": 185,
-            "seatsSold": 451,
-            "occupancy": 70.91,
-            "totalRevenue": 72160.0
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
           }
         },
         "andhra-pradesh": {
@@ -29123,12 +29287,12 @@
         }
       },
       "overallStats": {
-        "totalShows": 260,
-        "totalSeats": 75218,
-        "seatsAvailable": 51321,
-        "seatsSold": 23897,
-        "occupancy": 31.77,
-        "totalRevenue": 3403800.08
+        "totalShows": 257,
+        "totalSeats": 74582,
+        "seatsAvailable": 51136,
+        "seatsSold": 23446,
+        "occupancy": 31.44,
+        "totalRevenue": 3331640.08
       }
     },
     "Kara": {
@@ -29596,6 +29760,30 @@
                     "seatsSold": 195,
                     "occupancy": 28.59,
                     "totalRevenue": 25350.0
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "3960": {
+                  "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
                   }
                 }
               },
@@ -30798,6 +30986,18 @@
                     "occupancy": 33.87,
                     "totalRevenue": 28200.0
                   }
+                },
+                "25181": {
+                  "theatreName": "Perison Plaza Multiscreen, Polepett, Tuticorin",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -31448,6 +31648,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
                   }
+                },
+                "4067": {
+                  "theatreName": "Kamalam Cinema's 4K RGB LASER Dolby Atmos, Thirupapuliyur, Cuddalore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -31670,6 +31882,30 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
                   }
+                },
+                "9194": {
+                  "theatreName": "ARK Grande Muthuram Multiplex 4K RGB Laser Dolby Atmos, Madurai Road",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "7232": {
+                  "theatreName": "Bombay Cinemas Sony 4K Dolby Atmos, Maharaja Nagar, Tirunelveli",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -31719,6 +31955,270 @@
               "theatres": {
                 "1025740": {
                   "theatreName": "Sss Multiplex Dolby Atmos, Main Road, Puliyankudi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Alangulam": {
+              "theatres": {
+                "1080239": {
+                  "theatreName": "TPV Multiplex 3D 4K Dolby Atmos Silver Screen, Alangulam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ambasamudram": {
+              "theatres": {
+                "1016089": {
+                  "theatreName": "Sri Balaji Cinemas RGB Laser Dolby Atmos, Shencottai Road, Ambasamudram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ariyalur": {
+              "theatres": {
+                "60085": {
+                  "theatreName": "Mahasakthi Talkies A/C 2K 3D Dolby 7.1, Rajajinagar, Ariyalur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Batlagundu": {
+              "theatres": {
+                "1018652": {
+                  "theatreName": "Govindasamy Theatre A/C, Dindugal Road, Batlagundu",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Karaikudi": {
+              "theatres": {
+                "27715": {
+                  "theatreName": "Pandian Cinemas A/C 4K Laser Projection Dolby Atmos",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Panruti": {
+              "theatres": {
+                "9424": {
+                  "theatreName": "Panruti Bhuvaneswari Theatre, Kamaraj Nagar, Panruti",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Sathankulam": {
+              "theatres": {
+                "4050": {
+                  "theatreName": "Sri Lakshmi Cinemas Full A/C, Sathankulam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Surandai": {
+              "theatres": {
+                "7679": {
+                  "theatreName": "Kavitha Theatre A/C dts, Sivagurunathapuram, Surandai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tenkasi": {
+              "theatres": {
+                "1037510": {
+                  "theatreName": "PSS Multiplex, Railway Feeder Road, Tenkasi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tiruchendur": {
+              "theatres": {
+                "9174": {
+                  "theatreName": "Krishna Cinemas Full A/C Dolby 7.1 3D, Tiruchendur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Udumalpet": {
+              "theatres": {
+                "19513": {
+                  "theatreName": "Lathangi Theatre A/C, Srinivasa Street, Udumalpet",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -32598,6 +33098,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0.0
               }
+            },
+            "Parvathipuram": {
+              "theatres": {
+                "25803": {
+                  "theatreName": "SVC TBR Cinemas, Narsipuram, Parvathipuram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -32933,6 +33457,30 @@
                     "seatsSold": 15,
                     "occupancy": 2.48,
                     "totalRevenue": 1444.15
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1049666": {
+                  "theatreName": "Kannappa Cinemas A/C 2K Dolby, Padappai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
                   }
                 }
               },
@@ -33749,6 +34297,78 @@
                 "seatsSold": 0,
                 "occupancy": 0.0,
                 "totalRevenue": 0.0
+              }
+            },
+            "Dharapuram": {
+              "theatres": {
+                "58633": {
+                  "theatreName": "Sri Sakthi Cinemas SVR, Dharapuram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Nagercoil": {
+              "theatres": {
+                "25938": {
+                  "theatreName": "Rajesh Theatre A/C 4K Screen 7.1 Dolby Audio, Nagercoil",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Kumbakonam": {
+              "theatres": {
+                "10255": {
+                  "theatreName": "Sri Vijayalakshmi Cinemas A/C 4K 3D, Anna Nagar, Kumbakonam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
               }
             }
           },
@@ -40688,6 +41308,30 @@
                 "occupancy": 14.29,
                 "totalRevenue": 8800.0
               }
+            },
+            "Alangulam": {
+              "theatres": {
+                "1080239": {
+                  "theatreName": "TPV Multiplex 3D 4K Dolby Atmos Silver Screen, Alangulam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -44933,6 +45577,58 @@
         "seatsSold": 0,
         "occupancy": 0.0,
         "totalRevenue": 0.0
+      }
+    },
+    "Salaar Part 1 – Ceasefire": {
+      "name": "Salaar Part 1 – Ceasefire",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Salaar-(1)%20(1)-3bc0e140-af31-11f0-b3dc-814b56ab3dc9-55ac0ee0-efaf-11f0-a240-a7bfb88ad2d3.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "Telangana": {
+          "cities": {
+            "Hyderabad": {
+              "theatres": {
+                "1039848": {
+                  "theatreName": "Mythri Theatres, Vimal 70MM AC 4K Laser Dolby Atmos, Balanagar(Newly Renovated), Hyderabad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
       }
     }
   }
