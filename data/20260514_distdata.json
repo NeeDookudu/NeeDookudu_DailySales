@@ -5709,6 +5709,30 @@
                 "occupancy": 25.84,
                 "totalRevenue": 37500.0
               }
+            },
+            "Narayanpet": {
+              "theatres": {
+                "1039877": {
+                  "theatreName": "Mythri SNR Cinemas, Narayanapet",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -28958,125 +28982,6 @@
                 "1059680": {
                   "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {
-                    "34392__1778736600__387__1469377": {
-                      "showId": "34392__1778736600__387__1469377",
-                      "showTime": "2026-05-14T05:30",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 84,
-                      "soldSeats": 128,
-                      "revenue": 20480.0
-                    },
-                    "34392__1778748300__387__1469378": {
-                      "showId": "34392__1778748300__387__1469378",
-                      "showTime": "2026-05-14T08:45",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 106,
-                      "soldSeats": 106,
-                      "revenue": 16960.0
-                    },
-                    "34392__1778760900__387__1469379": {
-                      "showId": "34392__1778760900__387__1469379",
-                      "showTime": "2026-05-14T12:15",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 119,
-                      "soldSeats": 93,
-                      "revenue": 14880.0
-                    },
-                    "34392__1778773500__387__1469380": {
-                      "showId": "34392__1778773500__387__1469380",
-                      "showTime": "2026-05-14T15:45",
-                      "screen": "SCREEN 1",
-                      "totalSeats": 212,
-                      "availableSeats": 81,
-                      "soldSeats": 131,
-                      "revenue": 20960.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 848,
-                    "seatsAvailable": 390,
-                    "seatsSold": 458,
-                    "occupancy": 54.01,
-                    "totalRevenue": 73280.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 848,
-                "seatsAvailable": 390,
-                "seatsSold": 458,
-                "occupancy": 54.01,
-                "totalRevenue": 73280.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 4,
-            "totalSeats": 848,
-            "seatsAvailable": 390,
-            "seatsSold": 458,
-            "occupancy": 54.01,
-            "totalRevenue": 73280.0
-          }
-        },
-        "andhra-pradesh": {
-          "cities": {
-            "Vijayawada": {
-              "theatres": {
-                "1023468": {
-                  "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
-                  "shows": {
-                    "15977": {
-                      "showId": "15977",
-                      "showTime": "2026-05-14T17:20",
-                      "screen": "AUDI 03",
-                      "totalSeats": 195,
-                      "availableSeats": 168,
-                      "soldSeats": 27,
-                      "revenue": 5723.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 195,
-                    "seatsAvailable": 168,
-                    "seatsSold": 27,
-                    "occupancy": 13.85,
-                    "totalRevenue": 5723.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 195,
-                "seatsAvailable": 168,
-                "seatsSold": 27,
-                "occupancy": 13.85,
-                "totalRevenue": 5723.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 195,
-            "seatsAvailable": 168,
-            "seatsSold": 27,
-            "occupancy": 13.85,
-            "totalRevenue": 5723.0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
                     "34392__1778773500__387__1469380": {
                       "showId": "34392__1778773500__387__1469380",
                       "showTime": "2026-05-14T15:45",
@@ -29133,15 +29038,97 @@
             "occupancy": 70.91,
             "totalRevenue": 72160.0
           }
+        },
+        "andhra-pradesh": {
+          "cities": {
+            "Vijayawada": {
+              "theatres": {
+                "1023468": {
+                  "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {
+                    "15977": {
+                      "showId": "15977",
+                      "showTime": "2026-05-14T17:20",
+                      "screen": "AUDI 03",
+                      "totalSeats": 195,
+                      "availableSeats": 168,
+                      "soldSeats": 27,
+                      "revenue": 5723.0
+                    }
+                  },
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 195,
+                    "seatsAvailable": 168,
+                    "seatsSold": 27,
+                    "occupancy": 13.85,
+                    "totalRevenue": 5723.0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 195,
+                "seatsAvailable": 168,
+                "seatsSold": 27,
+                "occupancy": 13.85,
+                "totalRevenue": 5723.0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 1,
+            "totalSeats": 195,
+            "seatsAvailable": 168,
+            "seatsSold": 27,
+            "occupancy": 13.85,
+            "totalRevenue": 5723.0
+          }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
-        "totalShows": 261,
-        "totalSeats": 75430,
-        "seatsAvailable": 51405,
-        "seatsSold": 24025,
-        "occupancy": 31.85,
-        "totalRevenue": 3424280.08
+        "totalShows": 260,
+        "totalSeats": 75218,
+        "seatsAvailable": 51321,
+        "seatsSold": 23897,
+        "occupancy": 31.77,
+        "totalRevenue": 3403800.08
       }
     },
     "Kara": {
@@ -31726,6 +31713,30 @@
                 "seatsSold": 75,
                 "occupancy": 13.86,
                 "totalRevenue": 7470.0
+              }
+            },
+            "Puliyankudi": {
+              "theatres": {
+                "1025740": {
+                  "theatreName": "Sss Multiplex Dolby Atmos, Main Road, Puliyankudi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
               }
             }
           },
@@ -44330,52 +44341,6 @@
             "seatsSold": 209,
             "occupancy": 2.55,
             "totalRevenue": 24204.6
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {
-                    "34335__1778749200__388__1469384": {
-                      "showId": "34335__1778749200__388__1469384",
-                      "showTime": "2026-05-14T09:00",
-                      "screen": "SCREEN 2",
-                      "totalSeats": 188,
-                      "availableSeats": 188,
-                      "soldSeats": 0,
-                      "revenue": 0.0
-                    }
-                  },
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 188,
-                    "seatsAvailable": 188,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 188,
-                "seatsAvailable": 188,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 1,
-            "totalSeats": 188,
-            "seatsAvailable": 188,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
           }
         },
         "null": {
