@@ -13,17 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 55
     
-    # CRITICAL: Both keys must be present here!
     env:
-      SUPER_KEY: ${{ secrets.SUPER_KEY }} # Used by BMS/District/Merger
-      ENC_KEY: ${{ secrets.ENC_KEY }}     # Used by encryptor.py
+      SUPER_KEY: ${{ secrets.SUPER_KEY }}
+      ENC_KEY: ${{ secrets.ENC_KEY }}
 
     steps:
+      # 1. NEW STEP: Free up disk space by removing massive unused pre-installed tools (Android SDK, .NET, etc.)
+      - name: Free Disk Space (Ubuntu)
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /opt/hostedtoolcache/CodeQL
+          sudo apt-get clean
+
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0 # Fetches all history to ensure a clean push
+          # 2. FIX: Change this to 1. You only need the latest files to run the scraper, not the whole history.
+          fetch-depth: 1 
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -58,14 +67,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Stage both raw data and encoded data folders
           git add data/ encoded_data/
 
-          # Check if there are changes to commit
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update collections data and encrypted payloads: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            
-            git push || (git pull --rebase origin main && git push)
+            # Note: Changed to standard pull to avoid rebase conflicts on a shallow (fetch-depth: 1) clone
+            git push || (git pull --no-rebase origin main && git push)
           else
             echo "No changes to commit"
           fi
