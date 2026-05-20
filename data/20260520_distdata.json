@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-05-20",
-  "totalMovies": 52,
+  "totalMovies": 53,
   "movies": {
     "Godari Gattupaina": {
       "name": "Godari Gattupaina",
@@ -19223,42 +19223,6 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
         }
       },
       "overallStats": {
@@ -19334,6 +19298,58 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Avatar: The Way of Water": {
+      "name": "Avatar: The Way of Water",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Drive---608x800-ff4ce380-76e9-11ed-b73d-dd421bb210f9.jpg",
+      "language": "Tamil",
+      "format": "3D",
+      "states": {
+        "tamil-nadu": {
+          "cities": {
+            "Arakkonam": {
+              "theatres": {
+                "4178": {
+                  "theatreName": "Sindhu Cinemas, Arakkonam",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
